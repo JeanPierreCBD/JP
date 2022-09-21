@@ -1,0 +1,304 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/687.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/404.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JkkbCvN/Polish-20211208-000102915.jpg" group-title="NOTICIAS",TV PERU NOTICIAS
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVXS8Rq/Polish-20211207-235928375.jpg" group-title="NACIONAL",WILLAX
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
+https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P989bbv/Polish-20211208-001709386.jpg" group-title="NOTICIAS",ATV+
+https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4cdQPW/Polish-20220214-224514451.jpg" group-title="NACIONAL",PERU MAGICO
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/910.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
+http://45.71.185.142:8500/play/a03b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXdg24H/Polish-20220720-001349206.jpg" group-title="DEPORTES",ECDF
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4Vf4Tv/Polish-20211207-231513075.jpg" group-title="DEPORTES",TUDN
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/913.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/921.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQ6Tf31/Polish-20220309-155139409.jpg" group-title="DEPORTES",FOX SPORTS
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/898.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MhWkL61/Polish-20220717-201711444.jpg" group-title="DEPORTES",FOX SPORTS 2
+http://45.71.185.142:8500/play/a04f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKML9v2/Polish-20220717-201731975.jpg" group-title="DEPORTES",FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/902.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/895.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQQxTmJ/Polish-20220914-010150021.jpg" group-title="DEPORTES",ESPN HD
+http://45.71.185.142:8500/play/a04j
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/882.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fMVPGFr/Polish-20211207-165635044.jpg" group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/884.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QdrjGh2/Polish-20211207-165732250.jpg" group-title="DEPORTES",ESPN 3
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/887.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5JhsFn/Polish-20211207-165805637.jpg" group-title="DEPORTES",ESPN 4
+http://45.71.185.142:8500/play/a04e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
+http://45.71.185.142:8500/play/a04n
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/874.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/877.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcN19fk/Polish-20220130-235339391.jpg" group-title="DEPORTES",DIRECTV SPORTS PLUS
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/879.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/866.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SJgt7gv/Polish-20211207-195834724.jpg" group-title="DEPORTES",M. LA LIGA
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhZmpM0/Polish-20211210-010632002.jpg" group-title="DEPORTES",M. LA LIGA 1
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7fb1dv/Polish-20211209-224128740.jpg" group-title="DEPORTES",M. LA LIGA 2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4JDGGMx/Polish-20211210-010710617.jpg" group-title="DEPORTES",M. LA LIGA 3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNqy8J3/Polish-20211210-010745065.jpg" group-title="DEPORTES",M. LA LIGA 4
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/890
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkNM5Mv/Polish-20211210-012146599.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vm3hrj7/Polish-20211210-012225651.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzkpr47/Polish-20211210-012311223.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 4
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d2252nY/Polish-20220129-192304128.jpg" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1V9Pv4/Polish-20220129-192324257.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRrMDDy/Polish-20220319-124714847.jpg" group-title="DEPORTES",SKY SPORTS BUNDESLIGA
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4jgv2Wh/Polish-20220222-162715991.jpg" group-title="24/7",LOS SIMPSON
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7pf6zKY/Polish-20211208-002427495.jpg" group-title="24/7",LOS SIMPSON
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M62TbwC/Polish-20220222-160734410.jpg" group-title="24/7",DRAGON BALL Z
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8B2Nn6/Polish-20211218-120059280.jpg" group-title="24/7",DRAGON BALL SUPER
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VN1X3xb/Polish-20220130-220700854.jpg" group-title="24/7",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/464.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZS62pD/Polish-20220909-162422621.jpg" group-title="ANIME",AZTECA 7
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/451.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0RkrZH/Polish-20220223-203633161.jpg" group-title="24/7",JETIX
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1v6Bf/Polish-20211207-224302091.jpg" group-title="ANIME",ENERGEEK 2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsdzkZQ/Polish-20211207-202126311.jpg" group-title="ANIME",ANIME ZONE TV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kKmNhC0/Polish-20211217-163931889.jpg" group-title="ANIME",TOONIZAKI
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sydjZPB/Polish-20220202-231958831.jpg" group-title="ANIME",ANIPLUS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GHFysn6/Polish-20220222-154710247.jpg" group-title="ANIME",INSPIRANIME
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME 2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
+https://fujitv2.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
+https://tbs2.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWCrZFD/Polish-20220621-223702717.jpg" group-title="JAPON",BS TBS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
+https://nhk2.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
+https://ntv.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYtWcf6/Polish-20220621-221019494.jpg" group-title="JAPON",BS NTV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34kHZc5/Polish-20220621-221041817.jpg" group-title="JAPON",BS TV TOKYO
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcTJWtk/Polish-20220621-224357199.jpg" group-title="JAPON",BS TV ASAHI
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FHNHBCC/Polish-20220717-221426265.jpg" group-title="CINE",TNT
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/496.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6pFfBS/Polish-20220302-194811854.png" group-title="INTERNACIONAL",RT
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f1L18nz/Polish-20220302-195311854.jpg" group-title="INTERNACIONAL",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K55J7FS/Polish-20220302-194911854.png" group-title="INTERNACIONAL",T13
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jz9jKCd/Polish-20220302-195011854.png" group-title="INTERNACIONAL",TELESUR
+https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pXqFNk7/Polish-20220302-195111854.jpg" group-title="INTERNACIONAL",24 HORAS
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhNCm0D/Polish-20220302-195211854.png" group-title="INTERNACIONAL",EURONEWS
+http://euronews-euronews-spanish-2-mx.samsung.wurl.com:80/manifest/730c25dabdbf07ec40b04f491cb629f5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pZpHSXv/Polish-20220310-195914670.jpg" group-title="INTERNACIONAL",CANAL 26
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
