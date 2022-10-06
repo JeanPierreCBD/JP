@@ -49,7 +49,8 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/910.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
-http://45.71.185.142:8500/play/a03b
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/514
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXdg24H/Polish-20220720-001349206.jpg" group-title="DEPORTES",ECDF
 
