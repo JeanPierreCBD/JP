@@ -1,12 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.com/stream/m3u8/317
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/687.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://ts3.tvcluboficial.live/stream/m3u8/780
+#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/404.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv2.m3u8
@@ -49,8 +49,7 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/JrgmdRh2ka/1OBjEUYo5I/910.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/514
+http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXdg24H/Polish-20220720-001349206.jpg" group-title="DEPORTES",ECDF
 
@@ -144,8 +143,7 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/890
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
 
@@ -187,8 +185,7 @@ https://v3.playerlatino.live/stream/m3u8/890
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/793
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
 #EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
