@@ -61,7 +61,8 @@ http://45.71.185.142:8500/play/a03b
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/274
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQ6Tf31/Polish-20220309-155139409.jpg" group-title="DEPORTES",FOX SPORTS
 http://190.60.37.69:8015/play/a08q/index.m3u8
