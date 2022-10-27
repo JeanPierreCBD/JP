@@ -226,7 +226,7 @@ https://v3.playerlatino.live/stream/m3u8/5
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
-https://fujitv2.mov3.co/hls/fujitv.m3u8
+https://fujitv3.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
 
@@ -238,7 +238,7 @@ https://tbs2.mov3.co/hls/tbs.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
-https://nhk2.mov3.co/hls/nhk.m3u8
+https://nhk3.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://ntv.mov3.co/hls/ntv.m3u8
@@ -247,13 +247,13 @@ https://ntv.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
-
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/34kHZc5/Polish-20220621-221041817.jpg" group-title="JAPON",BS TV TOKYO
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
-
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcTJWtk/Polish-20220621-224357199.jpg" group-title="JAPON",BS TV ASAHI
 
