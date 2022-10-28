@@ -223,7 +223,7 @@ https://v3.playerlatino.live/stream/m3u8/5
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
-
+https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
