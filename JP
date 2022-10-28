@@ -27,7 +27,7 @@ https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
 https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
-
+http://190.108.83.142:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
@@ -222,9 +222,6 @@ https://v3.playerlatino.live/stream/m3u8/5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME 2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
-https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 
@@ -238,7 +235,7 @@ https://tbs2.mov3.co/hls/tbs.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
-https://nhk3.mov3.co/hls/nhk.m3u8
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NTV
 https://cdn.us195.jpnettv.live/jptv/kanto_nippon_720/playlist.m3u8
@@ -260,6 +257,9 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
+https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FHNHBCC/Polish-20220717-221426265.jpg" group-title="CINE",TNT
 
