@@ -255,6 +255,9 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcTJWtk/Polish-20220621-224357199.jpg" group-title="JAPON",BS TV ASAHI
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/26gVvF5/Polish-20221110-100200903.jpg" group-title="JAPON",TOKYO MX
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 https://sub2.neetball.net/live/neet.m3u8
 
