@@ -102,8 +102,6 @@ http://45.71.185.142:8500/play/a04n
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
 http://soberon.us:25461/Yg6eDwSTMR/bmgk4A8hbt/3219
-//#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-//https://v3.playerlatino.live/stream/m3u8/259
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
