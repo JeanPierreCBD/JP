@@ -61,8 +61,7 @@ http://45.71.185.142:8500/play/a03b
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/274
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQ6Tf31/Polish-20220309-155139409.jpg" group-title="DEPORTES",FOX SPORTS
 http://190.60.37.69:8015/play/a08q
@@ -258,10 +257,10 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
-https://sub2.neetball.net/live/neet.m3u8
+https://sub.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
-https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FHNHBCC/Polish-20220717-221426265.jpg" group-title="CINE",TNT
 
@@ -273,7 +272,7 @@ https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
-http://45.71.185.142:8500/play/a00n
+http://190.60.37.69:8015/play/a00z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6pFfBS/Polish-20220302-194811854.png" group-title="INTERNACIONAL",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
