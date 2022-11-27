@@ -18,7 +18,7 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVXS8Rq/Polish-20211207-235928375.jpg" group-title="NACIONAL",WILLAX
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309269.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
 https://dysmuyxh5vstv.cloudfront.net:443/hls/live_720p30.m3u8
@@ -100,15 +100,13 @@ http://45.71.185.142:8500/play/a04n
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PcVQXBp/Polish-20211207-203854699.jpg" group-title="DEPORTES",DIRECTV SPORTS
-http://soberon.us:25461/Yg6eDwSTMR/bmgk4A8hbt/3219
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309284.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pjvHnN/Polish-20211207-203553684.jpg" group-title="DEPORTES",DIRECTV SPORTS 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/667
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcN19fk/Polish-20220130-235339391.jpg" group-title="DEPORTES",DIRECTV SPORTS PLUS
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-
+http://soberon.us:25461/Yg6eDwSTMR/bmgk4A8hbt/3219
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
