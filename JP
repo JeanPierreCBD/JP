@@ -164,6 +164,10 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports2
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5spJX9/Polish-20230106-014348608.jpg" group-title="24/7",CINE MARVEL
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/697
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jgv2Wh/Polish-20220222-162715991.jpg" group-title="24/7",LOS SIMPSON
 
 
