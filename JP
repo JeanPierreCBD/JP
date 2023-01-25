@@ -93,7 +93,10 @@ http://190.60.37.69:8015/play/a04i
 http://190.60.37.69:8015/play/a02n
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
+http://131.196.194.2:8000/play/a0ev/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV36Cx6/Polish-20230125-130737563.jpg" group-title="DEPORTES",ESPN PREMIUM
+http://131.196.194.2:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
 
@@ -264,7 +267,7 @@ https://sub.neetball.net/live/neet.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FHNHBCC/Polish-20220717-221426265.jpg" group-title="CINE",TNT
-
+http://131.196.194.2:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
 
