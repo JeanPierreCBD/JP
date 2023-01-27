@@ -167,6 +167,9 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xz5kvwV/Polish-20230126-214307572.jpg" group-title="DEPORTES",SSC
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P5spJX9/Polish-20230106-014348608.jpg" group-title="24/7",CINE MARVEL
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/697
