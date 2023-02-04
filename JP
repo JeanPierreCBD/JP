@@ -74,14 +74,14 @@ http://190.60.37.69:8015/play/a02a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN CO
 http://190.60.37.69:8015/play/a037
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQQxTmJ/Polish-20220914-010150021.jpg" group-title="DEPORTES",ESPN HD
 http://190.60.37.69:8015/play/a09b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
-
+http://45.179.140.242:8000/play/a0ie
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fMVPGFr/Polish-20211207-165635044.jpg" group-title="DEPORTES",ESPN 2
 http://190.60.37.69:8015/play/a01e
@@ -114,7 +114,7 @@ http://131.196.194.2:8000/play/a0ex/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
-https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
 
@@ -194,8 +194,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 https://v3.playerlatino.live/stream/m3u8/793
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/93
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9ZS62pD/Polish-20220909-162422621.jpg" group-title="ANIME",AZTECA 7
 
@@ -276,7 +275,7 @@ http://131.196.194.2:8000/play/a0f1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
-
+http://45.179.140.242:8000/play/a0jh
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
 http://190.60.37.69:8015/play/a00z
