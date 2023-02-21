@@ -30,7 +30,7 @@ https://dysmuyxh5vstv.cloudfront.net:443/hls/atv2_480.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N
 
@@ -270,6 +270,9 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FHNHBCC/Polish-20220717-221426265.jpg" group-title="CINE",TNT
 http://131.196.194.2:8000/play/a0f1/index.m3u8
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CINE",STAR CHANNEL
+http://131.196.194.2:8000/play/a0ey/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
 
