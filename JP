@@ -77,8 +77,8 @@ http://190.60.37.69:8015/play/a02a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN CO
 http://190.60.37.69:8015/play/a037
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQQxTmJ/Polish-20220914-010150021.jpg" group-title="DEPORTES",ESPN HD
-http://190.60.37.69:8015/play/a09b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqKN08h/Polish-20230222-172816220.jpg" group-title="DEPORTES",ESPN HD
+http://131.196.194.2:8000/play/a0ed/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
 http://45.179.140.242:8000/play/a0ie
