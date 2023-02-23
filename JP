@@ -77,7 +77,7 @@ http://190.60.37.69:8015/play/a02a
 http://190.60.37.69:8015/play/a037
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqKN08h/Polish-20230222-172816220.jpg" group-title="DEPORTES",ESPN HD
-http://131.196.194.2:8000/play/a0ed/index.m3u8
+http://190.60.37.69:8015/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sPxNdz/Polish-20220223-202604474.jpg" group-title="DEPORTES",ESPN 1
 http://45.179.140.242:8000/play/a0ie
