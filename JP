@@ -60,7 +60,7 @@ http://45.179.140.242:8000/play/a0l8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-
+http://45.179.140.242:8000/play/a0k7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/42qh112/Polish-20230214-154911853.jpg" group-title="DEPORTES",FOX SPORTS 1
 http://190.60.37.69:8015/play/a08q
@@ -187,7 +187,7 @@ https://v3.playerlatino.live/stream/m3u8/697
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VN1X3xb/Polish-20220130-220700854.jpg" group-title="24/7",ONE PIECE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
