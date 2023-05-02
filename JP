@@ -28,6 +28,9 @@ https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zSMmR9x/Polish-20230502-171401786.jpg" group-title="NACIONAL",NATIVA TV
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 
 
