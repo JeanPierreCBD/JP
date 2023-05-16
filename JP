@@ -34,6 +34,9 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JxKnXT1/Polish-20230515-234825770.jpg" group-title="NACIONAL",CONGRESO TV
+https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N
 
 
@@ -265,10 +268,10 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
-https://sub.neetball.net/live/neet.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FHNHBCC/Polish-20220717-221426265.jpg" group-title="CINE",TNT
 http://190.60.37.69:8015/play/a00p/index.m3u8
