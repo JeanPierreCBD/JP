@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,WillaxHD,/home/vlue/Pictures/willaxTv-logo.jpg,0
+  rtmp://willax.mediastream.pe/ app=vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh pageUrl=http://willax.tv/ live=true
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
 https://live-latinav2-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
@@ -164,7 +167,7 @@ http://45.179.140.242:8000/play/a0ie
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1V9Pv4/Polish-20220129-192324257.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
-
+http://190.61.102.67:8000/play/a07h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRrMDDy/Polish-20220319-124714847.jpg" group-title="DEPORTES",SKY SPORTS BUNDESLIGA
 
@@ -195,8 +198,7 @@ https://v3.playerlatino.live/stream/m3u8/697
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdJPbJH/Polish-20220130-004407002.jpg" group-title="24/7",FUTURAMA
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/793
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcxJFkJ/Polish-20211207-195641129.jpg" group-title="ANIME",BITME
 
