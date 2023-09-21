@@ -98,7 +98,7 @@ http://45.179.140.242:8000/play/a0je
 http://45.179.140.242:8000/play/a0jo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
-http://181.78.24.67:8010/play/a05n/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZV36Cx6/Polish-20230125-130737563.jpg" group-title="DEPORTES",ESPN PREMIUM
 
@@ -263,7 +263,7 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26gVvF5/Polish-20221110-100200903.jpg" group-title="JAPON",TOKYO MX 1
-
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 
