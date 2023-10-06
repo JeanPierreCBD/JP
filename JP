@@ -251,19 +251,19 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
-
+http://203.162.235.41:19098/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/34kHZc5/Polish-20220621-221041817.jpg" group-title="JAPON",BS TV TOKYO
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
-
+http://203.162.235.41:17097/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcTJWtk/Polish-20220621-224357199.jpg" group-title="JAPON",BS TV ASAHI
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26gVvF5/Polish-20221110-100200903.jpg" group-title="JAPON",TOKYO MX 1
-https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 
