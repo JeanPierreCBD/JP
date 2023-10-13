@@ -8,7 +8,7 @@ https://live-latinav2-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx
 https://v3.playerlatino.live/stream/m3u8/780
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
-http://cdn1601.cdn77.online:2052/free16/256/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMyA2OjUxOjQ4IFBNJmhhc2hfdmFsdWU9YWdHQ3FoN3lVcXk0T3ptQVhDVkZZdz09JnZhbGlkbWludXRlcz0yNDA=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
 https://d6vls0u25arys.cloudfront.net:443/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
