@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="Evento",Evento
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
 https://live-latinav2-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
@@ -8,7 +11,7 @@ https://live-latinav2-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx
 https://v3.playerlatino.live/stream/m3u8/780
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
-https://server11.peliscdn.online/newhls/2826a9c423d75111eeaae0f2c98651df/EP.0.2.v1.1698679411.720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -17,7 +20,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVXS8Rq/Polish-20211207-235928375.jpg" group-title="NACIONAL",WILLAX
-https://server11.peliscdn.online/newhls/2826a9c423d75111eeaae0f2c98651df/EP.0.2.v1.1698679411.1080.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
 https://d3krdjs7is1y42.cloudfront.net:443/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
