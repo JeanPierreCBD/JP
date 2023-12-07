@@ -238,7 +238,7 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
-https://tbs3.mov3.co/hls/tbs.m3u8
+https://tbs4.mov3.co/hls/tbs.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/VWCrZFD/Polish-20220621-223702717.jpg" group-title="JAPON",BS TBS
 
@@ -285,8 +285,8 @@ http://203.162.235.41:18097
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
 https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
-http://181.78.24.67:8010/play/a03p/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6pFfBS/Polish-20220302-194811854.png" group-title="INTERNACIONAL",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
@@ -303,8 +303,8 @@ https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/pXqFNk7/Polish-20220302-195111854.jpg" group-title="INTERNACIONAL",24 HORAS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YhNCm0D/Polish-20220302-195211854.png" group-title="INTERNACIONAL",EURONEWS
-http://euronews-euronews-spanish-2-mx.samsung.wurl.com:80/manifest/730c25dabdbf07ec40b04f491cb629f5.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/YhNCm0D/Polish-20220302-195211854.png" group-title="INTERNACIONAL",EURONEWS
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/pZpHSXv/Polish-20220310-195914670.jpg" group-title="INTERNACIONAL",CANAL 26
 
