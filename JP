@@ -33,7 +33,7 @@ https://d3krdjs7is1y42.cloudfront.net:443/ATVmas/74ee4169b59e6f987ae3d7731730910
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zSMmR9x/Polish-20230502-171401786.jpg" group-title="NACIONAL",NATIVA TV
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JxKnXT1/Polish-20230515-234825770.jpg" group-title="NACIONAL",CONGRESO TV
