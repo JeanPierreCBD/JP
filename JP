@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
-https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8?dpssid=b1341042463155658bc7969d774&ndvc=0&sid=ba5t1l1xb4210105057365939f80ad59b
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
 
@@ -233,11 +233,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV (2)
+http://203.162.235.41:15094
+
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 https://tbs4.mov3.co/hls/tbs.m3u8
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS (2)
+http://jp.vthanhnetwork.com/TBS/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/VWCrZFD/Polish-20220621-223702717.jpg" group-title="JAPON",BS TBS
 
@@ -245,8 +251,14 @@ https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G (2)
+http://203.162.235.41:14093
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NIPPON TV
 https://ntv4.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NIPPON TV (2)
+http://203.162.235.41:16095
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/VYtWcf6/Polish-20220621-221019494.jpg" group-title="JAPON",BS NIPPON TV
 
