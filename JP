@@ -1,7 +1,7 @@
 #EXTM3U
 
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="Evento",Evento
-http://cdn1501.fastcdn.online:2052/free15/138/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDI0IDEyOjU2OjMzIEFNJmhhc2hfdmFsdWU9Nk5GNTJ1a2tLL084dUh5aS9iUUpBZz09JnZhbGlkbWludXRlcz0yNDA=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2FzFgq/Polish-20220301-020142564.jpg" group-title="NACIONAL",LATINA
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8?dpssid=b1341042463155658bc7969d774&ndvc=0&sid=ba5t1l1xb4210105057365939f80ad59b
