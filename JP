@@ -237,7 +237,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV (2)
-http://203.162.235.41:15094
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
 
@@ -246,7 +246,7 @@ http://203.162.235.41:15094
 https://tbs4.mov3.co/hls/tbs.m3u8
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS (2)
-http://jp.vthanhnetwork.com/TBS/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/VWCrZFD/Polish-20220621-223702717.jpg" group-title="JAPON",BS TBS
 
@@ -255,25 +255,25 @@ http://jp.vthanhnetwork.com/TBS/index.m3u8
 https://nhk4.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G (2)
-http://203.162.235.41:14093
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NIPPON TV
 https://ntv4.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NIPPON TV (2)
-http://203.162.235.41:16095
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/VYtWcf6/Polish-20220621-221019494.jpg" group-title="JAPON",BS NIPPON TV
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCRcMbf/Polish-20220206-163958061.jpg" group-title="JAPON",TV TOKYO
-http://203.162.235.41:19098/
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/34kHZc5/Polish-20220621-221041817.jpg" group-title="JAPON",BS TV TOKYO
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QK5sx0s/Polish-20220206-164110202.jpg" group-title="JAPON",TV ASAHI
-http://203.162.235.41:18097
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/wcTJWtk/Polish-20220621-224357199.jpg" group-title="JAPON",BS TV ASAHI
 
