@@ -80,7 +80,7 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UC
 
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN CO
-
+http://45.179.140.242:8000/play/a0j5
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/HqKN08h/Polish-20230222-172816220.jpg" group-title="DEPORTES",ESPN HD
 
@@ -89,7 +89,7 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UC
 http://45.179.140.242:8000/play/a0ie
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/fMVPGFr/Polish-20211207-165635044.jpg" group-title="DEPORTES",ESPN 2
-
+http://45.179.140.242:8000/play/a0id
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/QdrjGh2/Polish-20211207-165732250.jpg" group-title="DEPORTES",ESPN 3
 
