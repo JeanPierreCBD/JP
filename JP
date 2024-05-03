@@ -296,7 +296,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6pFfBS/Polish-20220302-194811854.png" group-title="INTERNACIONAL",RT
