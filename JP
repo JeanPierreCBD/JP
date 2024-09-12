@@ -142,8 +142,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/MNqy8J3/Polish-20211210-010745065.jpg" group-title="DEPORTES",M. LA LIGA 4
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYq67yq/Polish-20211207-195958108.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
+http://mvply55.xyz:8000/live/ercumentabi/Q4K78kk9eh/136447.ts
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
 
