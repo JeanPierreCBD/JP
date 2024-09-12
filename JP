@@ -163,8 +163,8 @@ http://mvply55.xyz:8000/live/ercumentabi/Q4K78kk9eh/136447.ts
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/d2252nY/Polish-20220129-192304128.jpg" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/N1V9Pv4/Polish-20220129-192324257.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1V9Pv4/Polish-20220129-192324257.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
+http://go.iptvhn.net:25461/live/7619/7619/13232.ts
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/qRrMDDy/Polish-20220319-124714847.jpg" group-title="DEPORTES",SKY SPORTS BUNDESLIGA
 
