@@ -12,6 +12,9 @@ http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/110640.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
 http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/110637.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV 2
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=3871129
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
