@@ -236,16 +236,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME 2
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/v4PrGtf/Polish-20220621-221701220.jpg" group-title="JAPON",BS FUJI TV
-
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
 
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/wJX1BtT/Polish-20211207-230723475.jpg" group-title="JAPON",TBS
@@ -254,13 +248,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/VWCrZFD/Polish-20220621-223702717.jpg" group-title="JAPON",BS TBS
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdgxXfr/Polish-20211207-231209706.jpg" group-title="JAPON",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NIPPON TV
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR2CKKP/Polish-20211207-230848024.jpg" group-title="JAPON",NIPPON TV
@@ -282,9 +271,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/26gVvF5/Polish-20221110-100200903.jpg" group-title="JAPON",TOKYO MX 1
-
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/ryyKwM5/Polish-20220616-235600724.jpg" group-title="ANIME",AT-X
 
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/hYZ88jL/Polish-20211208-233825669.jpg" group-title="ANIME",ANIMAX
