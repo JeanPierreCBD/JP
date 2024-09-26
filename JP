@@ -36,8 +36,8 @@ https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P989bbv/Polish-20211208-001709386.jpg" group-title="NOTICIAS",ATV+
 https://d1svme839xkbsn.cloudfront.net/original.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zSMmR9x/Polish-20230502-171401786.jpg" group-title="NACIONAL",NATIVA TV
 https://servilive.com:3449/live/mlecaroslive.m3u8
@@ -238,6 +238,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME 2
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2k2fg3N/Polish-20240926-012950434.jpg" group-title="ANIME",Anime Onegai
+https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
@@ -319,9 +321,6 @@ https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tlU-HBY9glrBrqa-M14wPBJnM-247oGkrg&usqp=CAU" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
-
 
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
 
