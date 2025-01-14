@@ -1,30 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.1.nz" tvg-logo="https://logo.iptveditor.com/skysport1.png" group-title="Desportos Premium 🌟",Sky Sport 1 🇳🇿🇬🇧
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.1.nz" tvg-logo="https://logo.iptveditor.com/skysport1.png" group-title="DEPORTES PREMIUM",Sky Sport 1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.2.nz" tvg-logo="https://logo.iptveditor.com/skysport2.png" group-title="Desportos Premium 🌟",Sky Sport 2 🇳🇿🇬🇧
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.2.nz" tvg-logo="https://logo.iptveditor.com/skysport2.png" group-title="DEPORTES PREMIUM",Sky Sport 2
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.3.nz" tvg-logo="https://logo.iptveditor.com/skysport3.png" group-title="Desportos Premium 🌟",Sky Sport 3 🇳🇿🇬🇧
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.3.nz" tvg-logo="https://logo.iptveditor.com/skysport3.png" group-title="DEPORTES PREMIUM",Sky Sport 3
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.4.nz" tvg-logo="https://logo.iptveditor.com/skysport4.png" group-title="Desportos Premium 🌟",Sky Sport 4 🇳🇿🇬🇧
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.4.nz" tvg-logo="https://logo.iptveditor.com/skysport4.png" group-title="DEPORTES PREMIUM",Sky Sport 4
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.5.nz" tvg-logo="https://logo.iptveditor.com/skysport5.png" group-title="Desportos Premium 🌟",Sky Sport 5 🇳🇿🇬🇧
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.5.nz" tvg-logo="https://logo.iptveditor.com/skysport5.png" group-title="DEPORTES PREMIUM",Sky Sport 5
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
