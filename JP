@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.1.nz" tvg-logo="https://logo.iptveditor.com/skysport1.png" group-title="DEPORTES",Sky Sport 1 🇳🇿🇬🇧
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
+
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="DEPORTES",Live Events
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
