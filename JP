@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 cuid="977" tvg-chno="977" tvg-id="NBA.TV.USA.us" tvg-name="" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="DEPORTES",Live Events
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
