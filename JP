@@ -9,8 +9,8 @@ http://181.78.109.49:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPSFnRD/Polish-20241228-033627413.jpg" group-title="NACIONAL",LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
+http://45.184.87.142:8000/play/a01a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA 
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
@@ -82,6 +82,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chu
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
+#EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes" tvg-id="Fox.Deportes.us" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="DEPORTES PREMIUM",Fox Deportes
+http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcWWMaslMThxFXyrwzCTykmZYdHbFWNLcwvpkBk_kkyt/ts
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN CO
 
