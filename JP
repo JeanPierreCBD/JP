@@ -82,8 +82,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chu
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
-#EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes" tvg-id="Fox.Deportes.us" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="DEPORTES PREMIUM",Fox Deportes
-http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcWWMaslMThxFXyrwzCTykmZYdHbFWNLcwvpkBk_kkyt/ts
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN CO
 
@@ -325,6 +323,9 @@ https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tlU-HBY9glrBrqa-M14wPBJnM-247oGkrg&usqp=CAU" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 cuid="1022" tvg-chno="1022" tvg-name="Fox Deportes" tvg-id="Fox.Deportes.us" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="DEPORTES PREMIUM",Fox Deportes
+http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZcWWMaslMThxFXyrwzCTykmZYdHbFWNLcwvpkBk_kkyt/ts
 
 #EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.1.nz" tvg-logo="https://logo.iptveditor.com/skysport1.png" group-title="DEPORTES PREMIUM",Sky Sport 1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
