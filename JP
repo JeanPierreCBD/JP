@@ -390,11 +390,23 @@ http://176.65.146.108:8022/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2023/10/sport_tv-logo_brandlogos.net_ddypm-768x768.png" group-title="DEPORTES PREMIUM",SPORT TV 4
 http://176.65.146.108:8022/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-strapi-prod.tango.lu/uploads/dazn_01_4d0c8152fb.jpg" group-title="DEPORTES PREMIUM",DAZN 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DEPORTES PREMIUM",DAZN 1
 http://176.65.146.108:8022/play/a06r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-strapi-prod.tango.lu/uploads/dazn_02_35049d1a33.jpg" group-title="DEPORTES PREMIUM",DAZN 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DEPORTES PREMIUM",DAZN 2
 http://176.65.146.108:8022/play/a072/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DEPORTES PREMIUM",DAZN 3
+http://176.65.146.108:8022/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DEPORTES PREMIUM",DAZN 4
+http://176.65.146.108:8022/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DEPORTES PREMIUM",DAZN 5
+http://176.65.146.108:8022/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DEPORTES PREMIUM",DAZN 6
+http://176.65.146.108:8022/play/a074/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
 
