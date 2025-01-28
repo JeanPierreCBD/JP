@@ -173,13 +173,13 @@ http://181.78.4.186:8000/play/a0fg/index.m3u8
 ::::#EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/d2252nY/Polish-20220129-192304128.jpg" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
+::#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N1V9Pv4/Polish-20220129-192324257.jpg" group-title="DEPORTES",SKY SPORTS LA LIGA
+#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",SKY SPORTS LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRrMDDy/Polish-20220319-124714847.jpg" group-title="DEPORTES",SKY SPORTS BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",SKY SPORTS BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
