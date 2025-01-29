@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",Evento
 http://185.189.225.150:85/mega/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",Evento 2
-
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",Evento 2
+http://cdn1601.opentraffic.live:2052/free16/255/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDI1IDg6MTg6NDAgUE0maGFzaF92YWx1ZT12YVp5MU00Q1o1UklKUEdyWHdFWDdRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPSFnRD/Polish-20241228-033627413.jpg" group-title="NACIONAL",LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
