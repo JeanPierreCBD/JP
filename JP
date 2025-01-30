@@ -173,13 +173,13 @@ http://181.78.4.186:8000/play/a0fg/index.m3u8
 ::::#EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
 
 
-::#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE
+::#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",PREMIER LEAGUE
 
 
-#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",SKY SPORTS LA LIGA
+#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",LA LIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",SKY SPORTS BUNDESLIGA
+#EXTINF:-1 tvg-logo="https://cdnb.4strokemedia.com/carousel/images/placeholder_amp_uk.png" group-title="DEPORTES",BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
@@ -241,7 +241,7 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Pc58QtS/Polish-20211208-002617197.jpg" group-title="ANIME",PLUTO TV ANIME 2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2k2fg3N/Polish-20240926-012950434.jpg" group-title="ANIME",Anime Onegai
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2k2fg3N/Polish-20240926-012950434.jpg" group-title="ANIME",ANIME ONEGAI
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/dLq6kVM/Polish-20211207-230503003.jpg" group-title="JAPON",FUJI TV
@@ -326,55 +326,55 @@ http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tlU-HBY9glrBrqa-M14wPBJnM-247oGkrg&usqp=CAU" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.1.nz" tvg-logo="https://logo.iptveditor.com/skysport1.png" group-title="DEPORTES PREMIUM",Sky Sport 1
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.1.nz" tvg-logo="https://logo.iptveditor.com/skysport1.png" group-title="DEPORTES PREMIUM",SKY SPORT 1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.2.nz" tvg-logo="https://logo.iptveditor.com/skysport2.png" group-title="DEPORTES PREMIUM",Sky Sport 2
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.2.nz" tvg-logo="https://logo.iptveditor.com/skysport2.png" group-title="DEPORTES PREMIUM",SKY SPORT 2
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.3.nz" tvg-logo="https://logo.iptveditor.com/skysport3.png" group-title="DEPORTES PREMIUM",Sky Sport 3
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.3.nz" tvg-logo="https://logo.iptveditor.com/skysport3.png" group-title="DEPORTES PREMIUM",SKY SPORT 3
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.4.nz" tvg-logo="https://logo.iptveditor.com/skysport4.png" group-title="DEPORTES PREMIUM",Sky Sport 4
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.4.nz" tvg-logo="https://logo.iptveditor.com/skysport4.png" group-title="DEPORTES PREMIUM",SKY SPORT 4
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.5.nz" tvg-logo="https://logo.iptveditor.com/skysport5.png" group-title="DEPORTES PREMIUM",Sky Sport 5
+#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.5.nz" tvg-logo="https://logo.iptveditor.com/skysport5.png" group-title="DEPORTES PREMIUM",SKY SPORT 5
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BNewZealand%5D
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT Sports 1
+#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT SPORTS 1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.2.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT Sports 2
+#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.2.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT SPORTS 2
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.3.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT Sports 3
+#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.3.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT SPORTS 3
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.4.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT Sports 4
+#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.4.HD.uk" tvg-logo="https://logo.iptveditor.com/tntsports1.png" group-title="DEPORTES PREMIUM",TNT SPORTS 4
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
