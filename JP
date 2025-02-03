@@ -356,7 +356,7 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BNewZealand%5D
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo=https://down10-software.downloadfullversion.net/data/mobile/icons/tnt-sport/icon.png" group-title="DEPORTES PREMIUM",TNT SPORTS 1
+#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo="https://down10-software.downloadfullversion.net/data/mobile/icons/tnt-sport/icon.png" group-title="DEPORTES PREMIUM",TNT SPORTS 1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
