@@ -6,13 +6,13 @@
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vPSFnRD/Polish-20241228-033627413.jpg" group-title="NACIONAL",LATINA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nQ80GCm/Polish-20211207-220526332.jpg" group-title="NACIONAL",AMERICA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV
 http://45.71.254.1:8000/play/a0nz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x7ZRpJq/Polish-20211214-173825392.jpg" group-title="NACIONAL",PANAMERICANA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA 
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
@@ -24,13 +24,13 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c2Y9H3z/Polish-20211207-235204901.jpg" group-title="NACIONAL",ATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P989bbv/Polish-20211208-001709386.jpg" group-title="NOTICIAS",ATV+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+
 https://d1svme839xkbsn.cloudfront.net/original.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mcz5YyG/Polish-20220206-165251427.jpg" group-title="NACIONAL",GLOBAL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zSMmR9x/Polish-20230502-171401786.jpg" group-title="NACIONAL",NATIVA TV
