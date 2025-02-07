@@ -69,7 +69,7 @@ http://45.71.254.1:8000/play/a08h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN
 http://45.5.117.182:8000/play/a0km/index.m3u8
 
-<!-- http://190.92.10.66:4000/play/a002/index.m3u8 -->
+// http://190.92.10.66:4000/play/a002/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 
