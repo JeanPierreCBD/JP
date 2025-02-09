@@ -412,6 +412,15 @@ http://176.65.146.108:8022/play/a06u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 6
 http://176.65.146.108:8022/play/a074/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES PREMIUM",SPOR TV 1
+https://super-cdn.link/sportv/index.m3u8
+
+:EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES PREMIUM",SPOR TV 2
+#https://super-cdn.link/sportv2/index.m3u8
+
+:EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES PREMIUM",SPOR TV 3
+#https://super-cdn.link/sportv3/index.m3u8
+
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
 
 
