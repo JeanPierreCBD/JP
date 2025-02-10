@@ -318,95 +318,24 @@ https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/b2GNVMM/Polish-20220921-224129861.jpg" group-title="INTERNACIONAL",UNIVERSAL COMEDY
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0R1XT7jC/Polish-20250205-012437438.jpg" group-title="INTERNACIONAL",MEGA
 http://185.189.225.150:85/mega/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VbN31Xz/Polish-20250204-222713768.jpg" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES PREMIUM",SKY SPORT 1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport1%5BNewZealand%5D
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES PREMIUM",SKY SPORT 1
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES PREMIUM",SKY SPORT 2
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport2%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES PREMIUM",SKY SPORT 3
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport3%5BNewZealand%5D
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES PREMIUM",TNT SPORTS 1
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES PREMIUM",SKY SPORT 4
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport4%5BNewZealand%5D
 
-#EXTINF:-1 cuid="6754" tvg-chno="723" tvg-name="Sky Sports" tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES PREMIUM",SKY SPORT 5
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FSkySport5%5BNewZealand%5D
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES PREMIUM",SPORT TV 1
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.1.HD.uk" tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES PREMIUM",TNT SPORTS 1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports1%5BUK%5D
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.2.HD.uk" tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES PREMIUM",TNT SPORTS 2
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports2%5BUK%5D
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 1
 
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.3.HD.uk" tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES PREMIUM",TNT SPORTS 3
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports3%5BUK%5D
-
-#EXTINF:-1 CUID="6763" tvg-chno="732" tvg-name="TNT Sports" tvg-ID="TNT.Sports.4.HD.uk" tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES PREMIUM",TNT SPORTS 4
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FTNTSports4%5BUK%5D
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES PREMIUM",SPORT TV 1
-http://176.65.146.108:8022/play/a06h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES PREMIUM",SPORT TV 2
-http://176.65.146.108:8022/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES PREMIUM",SPORT TV 3
-http://176.65.146.108:8022/play/a06j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES PREMIUM",SPORT TV 4
-http://176.65.146.108:8022/play/a05z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 1
-http://176.65.146.108:8022/play/a06r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 2
-http://176.65.146.108:8022/play/a072/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 3
-http://176.65.146.108:8022/play/a073/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 4
-http://176.65.146.108:8022/play/a06t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 5
-http://176.65.146.108:8022/play/a06u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 6
-http://176.65.146.108:8022/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES PREMIUM",SPOR TV 1
 https://super-cdn.link/sportv/index.m3u8
@@ -416,6 +345,7 @@ https://super-cdn.link/sportv/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES PREMIUM",SPOR TV 3
 #https://super-cdn.link/sportv3/index.m3u8
+
 
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
 
