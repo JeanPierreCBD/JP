@@ -350,4 +350,8 @@ https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cX8Tr4D0/Polish-20250210-180135126.jpg" group-title="DEPORTES PREMIUM",ELEVEN SPORTS 1
 http://185.236.229.62:9981/play/a05w
 
+
+::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
+
+
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
