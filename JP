@@ -213,6 +213,9 @@ https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cX8Tr4D0/Polish-20250210-180135126.jpg" group-title="DEPORTES PREMIUM",ELEVEN SPORTS 1
 http://185.236.229.62:9981/play/a05w
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdFjLGnT/Polish-20250218-005731713.jpg" group-title="DEPORTES PREMIUM",ARENA SPORT 1
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/P5spJX9/Polish-20230106-014348608.jpg" group-title="24/7",CINE MARVEL
 
 
@@ -349,6 +352,5 @@ https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
 
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
-
 
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
