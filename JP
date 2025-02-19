@@ -72,7 +72,9 @@ http://45.71.254.1:8000/play/a08h/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN HD
-http://45.71.254.1:8000/play/a01r/index.m3u8
+http://190.0.241.181:8000/play/a0a8/index.m3u8
+
+#http://45.71.254.1:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN
 http://181.78.4.186:8000/play/a0ge/index.m3u8
@@ -197,8 +199,8 @@ https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES PREMIUM",SPORT TV 1
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 1
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES PREMIUM",DAZN 1
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES PREMIUM",SPOR TV 1
 https://super-cdn.link/sportv/index.m3u8
