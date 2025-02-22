@@ -25,10 +25,10 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV
-https://d19e55ehz2il4i.cloudfront.net/original.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+
-https://d1svme839xkbsn.cloudfront.net/original.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
