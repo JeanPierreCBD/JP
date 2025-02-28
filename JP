@@ -324,8 +324,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_72
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/s2LVsvC/Polish-20220301-011710978.jpg" group-title="INTERNACIONAL",CBS
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/jr6kXF5/Polish-20220302-194611854.png" group-title="INTERNACIONAL",FRANCE 24
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5d28BnM/Polish-20250228-014831534.jpg" group-title="INTERNACIONAL",FRANCE 24
+https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
 
