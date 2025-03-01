@@ -198,8 +198,8 @@ http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VbN31Xz/Polish-20250204-222713768.jpg" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES",SKY SPORT 1
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES",SKY SPORT 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES",TNT SPORTS 1
 http://176.97.123.29/live.ts?channelId=267&uid=8&deviceMac=00:1A:79:6A:43:86
