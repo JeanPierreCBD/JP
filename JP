@@ -156,8 +156,8 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
 #http://168.227.131.66:8000/play/cj9t/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
+http://45.71.254.1:8000/play/a0ft/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",PREMIER LEAGUE
 
