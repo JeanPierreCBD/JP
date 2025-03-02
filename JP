@@ -71,8 +71,8 @@ http://45.71.254.1:8000/play/a08h/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN CO
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BR
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BR
+http://185.246.208.74:14493
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN HD ARG
 http://38.41.8.1:8000/play/a0rv
@@ -153,8 +153,8 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
-#http://168.227.131.66:8000/play/cj9t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
+http://168.227.131.66:8000/play/cj9t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 http://45.71.254.1:8000/play/a0ft/index.m3u8
@@ -171,8 +171,8 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
+http://201.174.162.89:9981/stream/channelid/202489485?profile=pass
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
 
@@ -327,8 +327,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5d28BnM/Polish-20250228-014831534.jpg" group-title="INTERNACIONAL",FRANCE 24
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rk0hTNS/Polish-20220302-194711854.png" group-title="INTERNACIONAL",CNN
+http://181.78.4.186:8000/play/a0e6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jczKfwg/Polish-20250204-215912201.jpg" group-title="INTERNACIONAL",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
