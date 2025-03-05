@@ -10,7 +10,7 @@
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV
-http://190.0.241.181:8000/play/a0ad/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv_ori_source/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA 
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
@@ -56,6 +56,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chu
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
 http://45.71.254.1:8000/play/a08h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX
+http://200.60.124.19:29000/play/a07k/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/42qh112/Polish-20230214-154911853.jpg" group-title="DEPORTES",FOX SPORTS 1
 
@@ -358,6 +361,11 @@ https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/hd/chunklist.m3u8
 
 
 
+
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
+
+
+::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
+
 
 ::#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",Nombre del canal
