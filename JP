@@ -161,8 +161,8 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
-http://168.227.131.66:8000/play/cj9t/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 
@@ -197,8 +197,8 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xz5kvwV/Polish-20230126-214307572.jpg" group-title="DEPORTES",SSC
-http://154.58.202.185:8000/play/a06h
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/Xz5kvwV/Polish-20230126-214307572.jpg" group-title="DEPORTES",SSC
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0R1XT7jC/Polish-20250205-012437438.jpg" group-title="INTERNACIONAL",MEGA
 http://185.189.225.150:85/mega/index.m3u8
@@ -206,8 +206,8 @@ http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VbN31Xz/Polish-20250204-222713768.jpg" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES",SKY SPORT 1
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES",SKY SPORT 1
+https://7pal.short.gy/skyspt1nz
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES",TNT SPORTS 1
 http://7pal.short.gy/tntspts1
