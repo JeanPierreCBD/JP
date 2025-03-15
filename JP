@@ -80,14 +80,14 @@ http://148.113.190.252/espn1hd/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN CO
 
 
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN HD CH
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN HD ARG
 http://45.71.254.1:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN HD ARG (2)
 http://38.41.8.1:8000/play/a0rv
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN HD CH
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN
 http://181.78.4.186:8000/play/a0ge/index.m3u8
@@ -194,17 +194,11 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/hXdg24H/Polish-20220720-001349206.jpg" group-title="DEPORTES",ECDF
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
-
-
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Xz5kvwV/Polish-20230126-214307572.jpg" group-title="DEPORTES",SSC
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0R1XT7jC/Polish-20250205-012437438.jpg" group-title="INTERNACIONAL",MEGA
-http://185.189.225.150:85/mega/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VbN31Xz/Polish-20250204-222713768.jpg" group-title="DEPORTES",REAL MADRID TV
-https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES",SKY SPORT 1
 https://7pal.short.gy/skyspt1nz
@@ -227,6 +221,12 @@ http://7pal.short.gy/tntspts1
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES",SPOR TV 1
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VbN31Xz/Polish-20250204-222713768.jpg" group-title="DEPORTES",REAL MADRID TV
+https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0R1XT7jC/Polish-20250205-012437438.jpg" group-title="INTERNACIONAL",MEGA
+http://185.189.225.150:85/mega/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/P5spJX9/Polish-20230106-014348608.jpg" group-title="24/7",CINE MARVEL
 
