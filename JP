@@ -93,7 +93,8 @@ http://45.71.254.1:8000/play/a01r/index.m3u8
 http://181.78.4.186:8000/play/a0ge/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2
-http://181.78.4.186:8000/play/a0ew/index.m3u8
+http://190.0.241.181:8000/play/a0bh/index.m3u8
+#http://181.78.4.186:8000/play/a0ew/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3
 http://190.0.241.181:8000/play/a02e/index.m3u8
