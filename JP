@@ -42,8 +42,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NACIONAL",PBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NACIONAL",PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo_ori_source/playlist.m3u8
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JxKnXT1/Polish-20230515-234825770.jpg" group-title="NACIONAL",CONGRESO TV
 
