@@ -1,10 +1,10 @@
 #EXTM3U
 
-::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
-
-::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 2
-
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 3
 
@@ -42,7 +42,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NACIONAL",PBO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo_ori_source/playlist.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JxKnXT1/Polish-20230515-234825770.jpg" group-title="NACIONAL",CONGRESO TV
