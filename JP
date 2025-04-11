@@ -202,7 +202,7 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/XSKsG5T/Polish-20230106-003425437.jpg" group-title="DEPORTES",KSA SPORTS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES",SKY SPORT 1
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Bk4V2n/Polish-20250204-223725438.jpg" group-title="DEPORTES",SKY SPORT 1
 
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES",TNT SPORTS 1
