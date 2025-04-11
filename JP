@@ -71,6 +71,7 @@ http://200.60.124.19:29000/play/a07k/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/MhWkL61/Polish-20220717-201711444.jpg" group-title="DEPORTES",FOX SPORTS 2
 
+
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/BKML9v2/Polish-20220717-201731975.jpg" group-title="DEPORTES",FOX SPORTS 3
 
 
@@ -217,7 +218,6 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/sdFjLGnT/Polish-20250218-005731713.jpg" group-title="DEPORTES",ARENA SPORT 1
-
 
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/ddnRc33/Polish-20250208-185723149.jpg" group-title="DEPORTES",SPOR TV 1
