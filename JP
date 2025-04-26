@@ -84,8 +84,8 @@ http://200.60.124.19:29000/play/a07k/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BRASIL
-http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/130
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BRASIL
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO
 http://148.113.190.252/espn1hd/index.m3u8
