@@ -132,6 +132,27 @@ http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/14990
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKX1JDxv/Polish-20250220-191658739.jpg" group-title="DEPORTES",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN HD
+http://45.68.35.218:4001/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2 HD
+http://45.68.35.218:4001/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3 HD
+http://45.68.35.218:4001/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4 HD
+http://45.68.35.218:4001/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5 HD
+http://45.68.35.218:4001/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bWwZTrD/Polish-20241004-191523907.jpg" group-title="DEPORTES",ESPN 6 HD
+http://45.68.35.218:4001/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
+http://45.68.35.218:4001/play/a02z/index.m3u8
+
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
 
 
