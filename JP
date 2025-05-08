@@ -114,18 +114,6 @@ http://181.78.4.186:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7
 http://181.78.4.186:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",*ESPN COLOMBIA
-http://152.200.192.150:8000/play/a04z
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM
-http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKX1JDxv/Polish-20250220-191658739.jpg" group-title="DEPORTES",ESPN DEPORTES
-http://190.92.10.66:4000/play/a003/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN HD
 http://45.68.35.218:4001/play/a02t/index.m3u8
 
@@ -146,6 +134,18 @@ http://45.68.35.218:4001/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
 http://45.68.35.218:4001/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",*ESPN COLOMBIA
+http://152.200.192.150:8000/play/a04z
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM
+http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149903.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKX1JDxv/Polish-20250220-191658739.jpg" group-title="DEPORTES",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
 
