@@ -135,7 +135,7 @@ http://45.68.35.218:4001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
 http://45.68.35.218:4001/play/a02z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",*ESPN COLOMBIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN COLOMBIA*
 http://152.200.192.150:8000/play/a04z
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
@@ -214,8 +214,8 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/TwGKxkf/Polish-20211208-042304880.jpg" group-title="DEPORTES",BEIN SPORTS Ñ
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDFdvnH/Polish-20211207-222950242.jpg" group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 
