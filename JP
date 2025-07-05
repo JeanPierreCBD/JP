@@ -92,29 +92,29 @@ http://razyal.tel/486261694/n827A6440r/309458
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN CHILE
 http://45.184.87.142:8000/play/a049
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN ARGENTINA
-http://200.37.199.140:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN COLOMBIA
-http://181.78.4.186:8000/play/a0ge/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2
-http://181.78.4.186:8000/play/a0ew/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN ARGENTINA
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN COLOMBIA
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5
-http://181.78.4.186:8000/play/a0fu/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bWwZTrD/Polish-20241004-191523907.jpg" group-title="DEPORTES",ESPN 6
-http://181.78.4.186:8000/play/a0fh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7
-http://181.78.4.186:8000/play/a0fg/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3
+
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4
+
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5
+
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/bWwZTrD/Polish-20241004-191523907.jpg" group-title="DEPORTES",ESPN 6
+
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN COLOMBIA*
 http://152.200.192.150:8000/play/a04z
@@ -200,8 +200,8 @@ https://7pal.short.gy/skyspt8nz
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0BCnn5S/Polish-20211207-234319235.jpg" group-title="DEPORTES",GOL TV
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs6J4fYd/Polish-20250412-133216785.jpg" group-title="DEPORTES",WIN SPORTS
-http://181.78.4.186:8000/play/a0he/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs6J4fYd/Polish-20250412-133216785.jpg" group-title="DEPORTES",WIN SPORTS
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/hXdg24H/Polish-20220720-001349206.jpg" group-title="DEPORTES",ECDF
 
@@ -245,8 +245,8 @@ https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0R1XT7jC/Polish-20250205-012437438.jpg" group-title="INTERNACIONAL",MEGA
 http://185.189.225.150:85/mega/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YM1vkH4/Polish-20250325-191926075.jpg" group-title="INTERNACIONAL",TELEMUNDO
-http://190.92.10.66:4000/play/a004/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/YM1vkH4/Polish-20250325-191926075.jpg" group-title="INTERNACIONAL",TELEMUNDO
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/P5spJX9/Polish-20230106-014348608.jpg" group-title="24/7",CINE MARVEL
 
@@ -356,8 +356,8 @@ http://190.92.10.66:4000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5d28BnM/Polish-20250228-014831534.jpg" group-title="INTERNACIONAL",FRANCE 24
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hJk7PTgg/Polish-20250302-155555900.jpg" group-title="INTERNACIONAL",CNN ES
-http://181.78.4.186:8000/play/a0e6/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/hJk7PTgg/Polish-20250302-155555900.jpg" group-title="INTERNACIONAL",CNN ES
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jczKfwg/Polish-20250204-215912201.jpg" group-title="INTERNACIONAL",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
