@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 1
-http://190.102.246.93:9005/play/a02d
+
 
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 2
-http://200.60.124.19:29000/play/a0gk/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 3
-http://190.60.56.41:8000/play/a00z/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 4
-http://160.20.165.246:8000/play/a024/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 1
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
