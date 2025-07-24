@@ -239,8 +239,8 @@ http://212.102.60.231:80/TUDN/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES",TNT SPORTS 1
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES",SPORT TV 1
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES",SPORT TV 1
+http://206.212.244.71:8080/Abxc5k/363887/167742
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES",DAZN 1
 
