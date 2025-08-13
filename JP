@@ -198,8 +198,8 @@ http://206.212.244.71:8080/Abxc5k/363887/86765
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",BUNDESLIGA
 
