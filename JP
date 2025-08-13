@@ -265,8 +265,8 @@ http://206.212.244.71:8080/Abxc5k/363887/167742
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VbN31Xz/Polish-20250204-222713768.jpg" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0R1XT7jC/Polish-20250205-012437438.jpg" group-title="INTERNACIONAL",MEGA
-http://185.189.225.150:85/mega/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/0R1XT7jC/Polish-20250205-012437438.jpg" group-title="INTERNACIONAL",MEGA
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/YM1vkH4/Polish-20250325-191926075.jpg" group-title="INTERNACIONAL",TELEMUNDO
 
