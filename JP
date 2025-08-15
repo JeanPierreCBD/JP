@@ -205,8 +205,8 @@ http://179.63.6.17:9000/play/a08c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",BUNDESLIGA
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",BUNDESLIGA
+http://190.92.10.66:4000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",PREMIER LEAGUE
 https://7pal.short.gy/skyspt8nz
