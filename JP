@@ -147,8 +147,8 @@ http://201.230.137.204:8000/play/a0em/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKX1JDxv/Polish-20250220-191658739.jpg" group-title="DEPORTES",ESPN DEPORTES
-http://190.92.10.66:4000/play/a003/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/xKX1JDxv/Polish-20250220-191658739.jpg" group-title="DEPORTES",ESPN DEPORTES
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/MP7vBZj/Polish-20211207-194742947.jpg" group-title="DEPORTES",LA LIGA TV BAR
 
@@ -215,6 +215,9 @@ https://7pal.short.gy/skyspt8nz
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN USA
 http://212.102.60.231:80/TUDN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMTC8FVR/Polish-20250901-212741507.jpg" group-title="DEPORTES",FOX DEPORTES
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19894
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
 
