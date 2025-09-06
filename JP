@@ -1,7 +1,7 @@
 #EXTM3U
 
-::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 1
-
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 1
+http://45.159.74.22/Channel_131/mono.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 2
 
@@ -216,8 +216,8 @@ https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN USA
 http://212.102.60.231:80/TUDN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMTC8FVR/Polish-20250901-212741507.jpg" group-title="DEPORTES",FOX DEPORTES
-http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19894
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/qMTC8FVR/Polish-20250901-212741507.jpg" group-title="DEPORTES",FOX DEPORTES
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
 
