@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 1
-http://45.159.74.22/Channel_131/mono.m3u8
+::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 1
+
 
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 2
 
