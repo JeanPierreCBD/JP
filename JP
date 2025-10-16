@@ -71,8 +71,8 @@ https://live-evg20.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanotic
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N
 http://181.224.226.128:5000/play/a02e/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgmkrfj/Polish-20211218-112538969.jpg" group-title="NOTICIAS",RPP
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9SSGHK7/Polish-20251015-203611250.jpg" group-title="NOTICIAS",RPP
+http://181.224.226.128:5000/play/a04j/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
 
