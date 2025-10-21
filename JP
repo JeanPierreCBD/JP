@@ -158,7 +158,7 @@ http://201.230.137.204:8000/play/a0eg/index.m3u8
 http://201.230.137.204:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4
-http://201.230.137.204:8000/play/a07k/index.m3u8
+http://181.224.226.128:5000/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5
 http://201.230.137.204:8000/play/a0fp/index.m3u8
