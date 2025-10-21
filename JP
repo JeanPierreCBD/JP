@@ -27,14 +27,26 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
 https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA FHD
+http://181.224.226.128:5000/play/a03n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV
 https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV FHD
+http://181.224.226.128:5000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA 
 https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA (2)
+http://181.224.226.128:5000/play/a04h/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
 https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU FHD
+http://181.224.226.128:5000/play/a08s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JkkbCvN/Polish-20211208-000102915.jpg" group-title="NOTICIAS",TV PERU NOTICIAS
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
@@ -42,14 +54,23 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX
 https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX FHD
+http://181.224.226.128:5000/play/a08n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV
 https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV FHD
+http://181.224.226.128:5000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+
 https://live-evg20.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV
 https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV FHD
+http://181.224.226.128:5000/play/a08l/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/zSMmR9x/Polish-20230502-171401786.jpg" group-title="NACIONAL",NATIVA TV
 
@@ -61,6 +82,9 @@ https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV
 https://live-evg20.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV FHD
+http://181.224.226.128:5000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV
 http://181.224.226.128:5000/play/a02b/index.m3u8
