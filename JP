@@ -86,7 +86,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV FHD
 http://181.224.226.128:5000/play/a08k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV FHD
 http://181.224.226.128:5000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7drSjNc/Polish-20250913-192035826.jpg" group-title="NOTICIAS",LATINA NOTICIAS
@@ -107,7 +107,7 @@ http://201.230.137.204:8000/play/a0h4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU FHD
 http://181.224.226.128:5000/play/a08o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD
 http://181.224.226.128:5000/play/a001/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX (opc.2)
