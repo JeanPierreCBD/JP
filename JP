@@ -25,13 +25,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
-https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA FHD
 http://181.224.226.128:5000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV
-https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_720p/chunks.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV FHD
 http://181.224.226.128:5000/play/a03m/index.m3u8
@@ -58,7 +58,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.
 http://181.224.226.128:5000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV
-https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_720p/chunks.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV FHD
 http://181.224.226.128:5000/play/a08m/index.m3u8
