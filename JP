@@ -243,8 +243,8 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",PREMIER LEAGUE
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN USA
-http://212.102.60.231:80/TUDN/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN USA
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/qMTC8FVR/Polish-20250901-212741507.jpg" group-title="DEPORTES",FOX DEPORTES
 
