@@ -39,7 +39,7 @@ http://181.224.226.128:5000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA 
 https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA (2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA SD
 http://181.224.226.128:5000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
@@ -124,32 +124,34 @@ http://181.224.226.128:5000/play/a001/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO HD
-
-
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN MEXICO
+
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO HD
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BRASIL
 http://razyal.tel/486261694/n827A6440r/309458
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN ARGENTINA HD
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN ARGENTINA
 http://45.71.254.1:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN COLOMBIA HD
-http://181.224.226.128:5000/play/a08f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN ARGENTINA HD
+http://201.230.137.204:8000/play/a06l/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN COLOMBIA
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN CHILE HD
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN COLOMBIA HD
+http://181.224.226.128:5000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN CHILE
 http://201.230.137.204:8000/play/a0eh/index.m3u8
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN CHILE HD
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2
 http://201.230.137.204:8000/play/a0eg/index.m3u8
@@ -158,7 +160,7 @@ http://201.230.137.204:8000/play/a0eg/index.m3u8
 http://201.230.137.204:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4
-http://181.224.226.128:5000/play/a083/index.m3u8
+http://201.230.137.204:8000/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5
 http://201.230.137.204:8000/play/a0fp/index.m3u8
@@ -238,8 +240,8 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",PREMIER LEAGUE
-https://7pal.short.gy/skyspt8nz
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",PREMIER LEAGUE
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN USA
 http://212.102.60.231:80/TUDN/index.m3u8
@@ -277,8 +279,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6KD9kB4/Polish-20250204-225809874.jpg" group-title="DEPORTES",TNT SPORTS 1
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES",SPORT TV 1
-http://206.212.244.71:8080/Abxc5k/363887/167742
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/cKgMMtB9/Polish-20250204-232450144.jpg" group-title="DEPORTES",SPORT TV 1
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Q78GyBCZ/Polish-20250204-233258738.jpg" group-title="DEPORTES",DAZN 1
 
