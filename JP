@@ -113,7 +113,8 @@ http://181.224.226.128:5000/play/a08o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD
 http://181.224.226.128:5000/play/a001/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX (opc.2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (2)
+http://38.183.182.166:8000/play/a12t/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/42qh112/Polish-20230214-154911853.jpg" group-title="DEPORTES",FOX SPORTS 1
 
