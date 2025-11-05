@@ -116,13 +116,13 @@ http://181.224.226.128:5000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (2)
 http://38.183.182.166:8000/play/a12t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42qh112/Polish-20230214-154911853.jpg" group-title="DEPORTES",FOX SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpzTW039/Polish-20251105-162957898.jpg" group-title="DEPORTES",FOX SPORTS FHD
 http://177.53.153.207:8000/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MhWkL61/Polish-20220717-201711444.jpg" group-title="DEPORTES",FOX SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QLr1cTc/Polish-20251105-163727389.jpg" group-title="DEPORTES",FOX SPORTS 2 FHD
 http://177.53.153.207:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKML9v2/Polish-20220717-201731975.jpg" group-title="DEPORTES",FOX SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpC532Lt/Polish-20251105-163859735.jpg" group-title="DEPORTES",FOX SPORTS 3 FHD
 http://177.53.153.207:8000/play/a001/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
