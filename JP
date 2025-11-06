@@ -58,7 +58,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m
 http://181.224.226.128:5000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV
-https://live-evg11.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV FHD
 http://181.224.226.128:5000/play/a08m/index.m3u8
