@@ -128,8 +128,8 @@ http://177.53.153.207:8000/play/a001/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BRASIL
-http://razyal.tel/486261694/n827A6440r/309458
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BRASIL
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO HD
 
@@ -233,8 +233,8 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
 http://201.230.137.204:8000/play/a0ej/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dwGx4Zzh/Polish-20250824-141655726.jpg" group-title="DEPORTES",PREMIERE
-http://razyal.tel/486261694/n827A6440r/492
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/dwGx4Zzh/Polish-20250824-141655726.jpg" group-title="DEPORTES",PREMIERE
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -417,7 +417,7 @@ https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5d28BnM/Polish-20250228-014831534.jpg" group-title="INTERNACIONAL",FRANCE 24
-https://s5.mexside.net:1936/france24/france24/playlist.m3u8
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/hJk7PTgg/Polish-20250302-155555900.jpg" group-title="INTERNACIONAL",CNN ES
 
