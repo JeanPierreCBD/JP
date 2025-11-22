@@ -25,7 +25,7 @@ http://45.184.87.142:8000/play/a049
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
-https://live-evg20.tv360.bitel.com.pe/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=850419
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA FHD
 http://181.224.226.128:5000/play/a03n/index.m3u8
@@ -43,7 +43,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 http://181.224.226.128:5000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
-https://live-evg5.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_720p/chunks.m3u8?uid=4994407
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU FHD
 http://181.224.226.128:5000/play/a08s/index.m3u8
