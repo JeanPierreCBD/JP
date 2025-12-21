@@ -18,8 +18,8 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",SETANTA SPORTS 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 3
-
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",DAZN ES
+http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/156148
 
 ::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 4
 
@@ -117,13 +117,13 @@ http://181.224.226.128:5000/play/a001/index.m3u8
 http://45.173.75.4:2061/play/a0au
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpzTW039/Polish-20251105-162957898.jpg" group-title="DEPORTES",FOX SPORTS FHD
-http://177.53.153.207:8000/play/a008/index.m3u8
+http://181.13.112.203:8100/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QLr1cTc/Polish-20251105-163727389.jpg" group-title="DEPORTES",FOX SPORTS 2 FHD
-http://177.53.153.207:8000/play/a006/index.m3u8
+http://181.13.112.203:8100/play/a05c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpC532Lt/Polish-20251105-163859735.jpg" group-title="DEPORTES",FOX SPORTS 3 FHD
-http://177.53.153.207:8000/play/a001/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/RpC532Lt/Polish-20251105-163859735.jpg" group-title="DEPORTES",FOX SPORTS 3 FHD
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
@@ -135,7 +135,7 @@ http://177.53.153.207:8000/play/a001/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN ARGENTINA HD
-http://177.53.153.207:8000/play/a00j/index.m3u8
+http://181.13.112.203:8100/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN COLOMBIA HD
 http://181.224.226.128:5000/play/a08f/index.m3u8
@@ -174,7 +174,7 @@ http://201.230.137.204:8000/play/a0en/index.m3u8
 http://201.230.137.204:8000/play/a0em/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM
-http://181.224.226.128:5000/play/a07k/index.m3u8
+http://181.13.112.203:8100/play/a078/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
 
