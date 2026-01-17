@@ -21,8 +21,8 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",DAZN ES
 http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/156148
 
-::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 4
-
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",LALIGA ES
+http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/9601
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=850419
