@@ -18,11 +18,11 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",SETANTA SPORTS 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",DAZN 1 ES
-http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/156148
+::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 3
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",LALIGA ES
-http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/9601
+
+::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 4
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=850419
@@ -200,6 +200,9 @@ http://201.230.137.204:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA ES
+http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/9601
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",BUNDESLIGA
 http://190.92.10.66:4000/play/a006/index.m3u8
 
@@ -266,8 +269,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
+http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/156148
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Xz5kvwV/Polish-20230126-214307572.jpg" group-title="DEPORTES",SSC
 
