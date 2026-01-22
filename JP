@@ -12,11 +12,11 @@
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 4
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",SPORTS.1
-https://spstr.abntv.live/hls/psstream.m3u8
+::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 1
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",SETANTA SPORTS 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 2
+
 
 ::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 3
 
@@ -304,6 +304,11 @@ http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/156148
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/rR37ZG6N/Polish-20250412-111104876.jpg" group-title="DEPORTES",S SPORT 2
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxHh9dLT/Polish-20260122-173933586.jpg" group-title="DEPORTES",PERSIANA SPORTS 1
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7sSBcdz/Polish-20260122-180350292.jpg" group-title="DEPORTES",SETANTA SPORTS 1
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VbN31Xz/Polish-20250204-222713768.jpg" group-title="DEPORTES",REAL MADRID TV
 https://rmtv.akamaized.net:443/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
