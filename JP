@@ -117,13 +117,13 @@ http://181.224.226.128:5000/play/a001/index.m3u8
 http://45.173.75.4:2061/play/a0au
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpzTW039/Polish-20251105-162957898.jpg" group-title="DEPORTES",FOX SPORTS FHD
-http://181.13.112.203:8100/play/a07j/index.m3u8
+http://181.209.37.74:8001/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QLr1cTc/Polish-20251105-163727389.jpg" group-title="DEPORTES",FOX SPORTS 2 FHD
-http://181.13.112.203:8100/play/a05c/index.m3u8
+http://181.209.37.74:8001/play/a09b/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/RpC532Lt/Polish-20251105-163859735.jpg" group-title="DEPORTES",FOX SPORTS 3 FHD
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpC532Lt/Polish-20251105-163859735.jpg" group-title="DEPORTES",FOX SPORTS 3 FHD
+http://181.209.37.74:8001/play/a06y/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/vhpmRFt/Polish-20220731-193755034.jpg" group-title="DEPORTES",FOX SPORTS PREMIUM
 
@@ -199,8 +199,9 @@ http://201.230.137.204:8000/play/a0ej/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/dwGx4Zzh/Polish-20250824-141655726.jpg" group-title="DEPORTES",PREMIERE
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA ES
-http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/9601
+
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA ES
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -271,8 +272,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/9rHB1rq/Polish-20211207-195432331.jpg" group-title="DEPORTES",#VAMOS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
-http://tv.zapping.life:8080/gilbertocavadid1/b2635ab46d75/156148
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/qYCC3LJ/Polish-20211210-012520964.jpg" group-title="DEPORTES",DAZN 1
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Xz5kvwV/Polish-20230126-214307572.jpg" group-title="DEPORTES",SSC
 
@@ -433,7 +434,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jczKfwg/Polish-20250204-215912201.jpg" group-title="INTERNACIONAL",RT
-https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+https://rt-esp.rttv.com:443/live/rtesp/playlist_2500Kb.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/XxJTsS8N/Polish-20250204-215524275.jpg" group-title="INTERNACIONAL",DW
 
