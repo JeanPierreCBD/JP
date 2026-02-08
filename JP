@@ -101,11 +101,11 @@ http://181.224.226.128:5000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9SSGHK7/Polish-20251015-203611250.jpg" group-title="NOTICIAS",RPP
 http://181.224.226.128:5000/play/a04j/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES
+http://181.224.226.128:5000/play/a097/index.m3u8
 
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
-http://201.230.137.204:8000/play/a0h4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU FHD
 http://181.224.226.128:5000/play/a08o/index.m3u8
@@ -433,8 +433,8 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/hJk7PTgg/Polish-20250302-155555900.jpg" group-title="INTERNACIONAL",CNN ES
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jczKfwg/Polish-20250204-215912201.jpg" group-title="INTERNACIONAL",RT
-https://rt-esp.rttv.com:443/live/rtesp/playlist_2500Kb.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/jczKfwg/Polish-20250204-215912201.jpg" group-title="INTERNACIONAL",RT
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/XxJTsS8N/Polish-20250204-215524275.jpg" group-title="INTERNACIONAL",DW
 
