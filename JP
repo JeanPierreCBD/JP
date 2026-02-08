@@ -182,8 +182,8 @@ http://181.209.37.74:8001/play/a086/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/xKX1JDxv/Polish-20250220-191658739.jpg" group-title="DEPORTES",ESPN DEPORTES
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKX1JDxv/Polish-20250220-191658739.jpg" group-title="DEPORTES",ESPN DEPORTES
+http://190.61.114.186:8000/play/a03t/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
 
@@ -206,8 +206,8 @@ http://201.230.137.204:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",LALIGA
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",BUNDESLIGA
-http://190.92.10.66:4000/play/a006/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",BUNDESLIGA
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/YT8VPnSr/Polish-20250204-215636984.jpg" group-title="DEPORTES",PREMIER LEAGUE
 
