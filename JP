@@ -60,8 +60,8 @@ http://181.224.226.128:5000/play/a08n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV FHD
-http://181.224.226.128:5000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV SD
+http://181.224.226.128:5000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+
 https://live-evg18.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8
