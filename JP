@@ -12,8 +12,8 @@
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 4
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",D SPORTS
-http://15.204.146.163:8001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",ESPN MEXICO
+http://190.14.10.19:16000/play/a092/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 2
 
@@ -179,7 +179,10 @@ http://201.230.137.204:8000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7
 http://201.230.137.204:8000/play/a0io/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM PERU
+http://181.224.226.128:5000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM ARGENTINA
 http://181.209.37.74:8001/play/a086/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
@@ -192,6 +195,9 @@ http://181.209.37.74:8001/play/a086/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
+http://15.204.146.163:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS (opc.2)
 http://181.224.226.128:5000/play/a08p/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS 2
