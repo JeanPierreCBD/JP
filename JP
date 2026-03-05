@@ -179,6 +179,9 @@ http://201.230.137.204:8000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7
 http://201.230.137.204:8000/play/a0io/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM ARGENTINA
+http://181.209.37.74:8001/play/a086/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2 HD
 http://181.224.226.128:5000/play/a07d/index.m3u8
 
@@ -199,9 +202,6 @@ http://181.224.226.128:5000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM PERU
 http://181.224.226.128:5000/play/a07k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM ARGENTINA
-http://181.209.37.74:8001/play/a086/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
 
