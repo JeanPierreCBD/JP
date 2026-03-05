@@ -12,8 +12,8 @@
 ::#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",EVENTO 4
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",ESPN MEXICO
-http://190.14.10.19:16000/play/a092/index.m3u8
+::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 1
+
 
 ::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 2
 
@@ -116,7 +116,7 @@ http://181.224.226.128:5000/play/a097/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD
 http://191.52.214.129:8000/play/a09w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.2)
 http://181.224.226.128:5000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpzTW039/Polish-20251105-162957898.jpg" group-title="DEPORTES",FOX SPORTS FHD
@@ -134,8 +134,8 @@ http://181.209.37.74:8001/play/a06y/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BRASIL
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO HD
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO HD
+http://190.14.10.19:16000/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN ARGENTINA HD
 http://181.209.37.74:8001/play/a099/index.m3u8
@@ -168,7 +168,7 @@ http://201.230.137.204:8000/play/a0eg/index.m3u8
 http://201.230.137.204:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4
-http://181.224.226.128:5000/play/a083/index.m3u8
+http://201.230.137.204:8000/play/a0lx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5
 http://201.230.137.204:8000/play/a0fp/index.m3u8
@@ -178,6 +178,24 @@ http://201.230.137.204:8000/play/a0hq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7
 http://201.230.137.204:8000/play/a0io/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2 HD
+http://181.224.226.128:5000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3 HD
+http://181.224.226.128:5000/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4 HD
+http://181.224.226.128:5000/play/a083/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5 HD
+http://181.224.226.128:5000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bWwZTrD/Polish-20241004-191523907.jpg" group-title="DEPORTES",ESPN 6 HD
+http://181.224.226.128:5000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
+http://181.224.226.128:5000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM PERU
 http://181.224.226.128:5000/play/a07k/index.m3u8
