@@ -334,8 +334,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/rR37ZG6N/Polish-20250412-111104876.jpg" group-title="DEPORTES",S SPORT 2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFGgzs59/Polish-20260122-182344662.jpg" group-title="DEPORTES",PERSIANA SPORTS 1
-https://spstr.abntv.live/hls/psstream.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/QFGgzs59/Polish-20260122-182344662.jpg" group-title="DEPORTES",PERSIANA SPORTS 1
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7sSBcdz/Polish-20260122-180350292.jpg" group-title="DEPORTES",SETANTA SPORTS 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
