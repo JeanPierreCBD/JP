@@ -39,7 +39,7 @@ http://201.230.137.204:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA 
 https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA SD
 http://201.230.137.204:8000/play/a0fn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU
@@ -114,10 +114,10 @@ http://15.204.146.163:8001/play/d00m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD
+http://45.173.75.4:2061/play/a0au
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.2)
 http://15.204.146.163:8001/play/a00n/index.m3u8
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.2)
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpzTW039/Polish-20251105-162957898.jpg" group-title="DEPORTES",FOX SPORTS FHD
 http://177.53.153.207:8000/play/a008/index.m3u8
