@@ -57,10 +57,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX SD
 http://201.230.137.204:8000/play/a0fj/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV FHD
-http://45.173.75.4:2061/play/a07c
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV FHD
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV SD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV SD
 http://201.230.137.204:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+
@@ -186,10 +186,10 @@ http://181.209.37.74:8001/play/a086/index.m3u8
 http://191.97.49.82:8001/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3 HD
-http://38.51.234.11:8888/play/a0g9/index.m3u8
+http://191.52.214.129:8000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4 HD
-http://38.51.234.11:8888/play/a0fp/index.m3u8
+http://191.52.214.129:8000/play/a09f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5 HD
 http://191.97.49.82:8001/play/a002/index.m3u8
@@ -200,8 +200,8 @@ http://191.97.49.82:8001/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
 http://191.97.49.82:8001/play/a006/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",PREMIUM COLOMBIA
-
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",PREMIUM PERU
+http://191.52.214.129:8000/play/a08e/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
 
