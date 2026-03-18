@@ -155,8 +155,8 @@ http://181.209.37.74:8001/play/a099/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN ARGENTINA
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN COLOMBIA
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN COLOMBIA
+http://38.51.234.11:8888/play/a0bx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QcGK4xh/Polish-20241004-174752960.jpg" group-title="DEPORTES",ESPN CHILE
 http://201.230.137.204:8000/play/a0eh/index.m3u8
@@ -182,26 +182,26 @@ http://201.230.137.204:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",PREMIUM ARGENTINA
 http://181.209.37.74:8001/play/a086/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2 HD
+http://38.51.234.11:8888/play/a0fs/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3 HD
+http://38.51.234.11:8888/play/a0g9/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/89TQGw9/Polish-20241004-191106913.jpg" group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4 HD
+http://38.51.234.11:8888/play/a0fp/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5 HD
+http://38.51.234.11:8888/play/a0g8/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/pnvKDyZ/Polish-20241004-191224218.jpg" group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bWwZTrD/Polish-20241004-191523907.jpg" group-title="DEPORTES",ESPN 6 HD
+http://38.51.234.11:8888/play/a0gk/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
+http://38.51.234.11:8888/play/a0fh/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/x1CZfWB/Polish-20241004-191309643.jpg" group-title="DEPORTES",ESPN 5 HD
-
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/bWwZTrD/Polish-20241004-191523907.jpg" group-title="DEPORTES",ESPN 6 HD
-
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
-
-
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",ESPN PREMIUM PERU
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",PREMIUM COLOMBIA
+http://38.51.234.11:8888/play/a0ft/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
 
