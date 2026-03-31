@@ -140,8 +140,8 @@ http://15.204.146.163:8001/play/a00n/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/NWm8DYR/Polish-20211208-235230065.jpg" group-title="DEPORTES",ESPN BRASIL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO HD
-http://190.14.10.19:16000/play/a092/index.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN MEXICO HD
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN ARGENTINA HD
 
