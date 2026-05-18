@@ -42,7 +42,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA FHD
 http://8.243.126.131:8000/play/a01r/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU FHD
 http://45.173.75.4:2061/play/a07d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLtvR0P/Polish-20211208-001309655.jpg" group-title="NACIONAL",TV PERU FHD
@@ -51,7 +51,7 @@ http://8.243.126.131:8000/play/a04k/index.m3u8?hls
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JkkbCvN/Polish-20211208-000102915.jpg" group-title="NOTICIAS",TV PERU NOTICIAS
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX HD
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=4218130
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX FHD
@@ -84,7 +84,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=6703086
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV SD
-http://190.117.20.37:8000/play/a0f2/index.m3u8
+http://190.117.20.37:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8?uid=4994407
@@ -118,6 +118,9 @@ http://45.173.75.4:2061/play/a0au
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.2)
 http://191.52.214.129:8000/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.3)
+http://8.243.126.131:8000/play/a063/index.m3u8?hls
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.3)
 
