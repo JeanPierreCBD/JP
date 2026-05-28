@@ -37,7 +37,7 @@ http://45.173.75.4:2061/play/a08h
 http://8.243.126.131:8000/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA 
-https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
+http://45.173.75.4:2061/play/a07b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA FHD
 http://8.243.126.131:8000/play/a01r/index.m3u8?hls
@@ -64,7 +64,7 @@ http://45.173.75.4:2061/play/a07c
 http://8.243.126.131:8000/play/a01z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+
-https://live-evg18.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8
+http://45.173.75.4:2061/play/a074
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=4994407
