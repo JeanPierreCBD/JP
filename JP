@@ -180,7 +180,7 @@ http://8.243.126.131:8000/play/a065/index.m3u8?hls
 http://8.243.126.131:8000/play/a053/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGfxJpxQ/Polish-20250208-204822949.jpg" group-title="DEPORTES",ESPN CHILE HD
-http://191.52.214.129:8000/play/a09x/index.m3u8
+http://191.52.214.129:8000/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g43x5mM/Polish-20241004-174849218.jpg" group-title="DEPORTES",ESPN 2 HD
 http://191.52.214.129:8000/play/a09n/index.m3u8
