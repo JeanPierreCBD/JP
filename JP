@@ -6,11 +6,11 @@ http://181.78.8.199:8000/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",GOL CARACOL
 http://181.78.8.199:8000/play/a0b0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",D SPORTS
-http://147.135.114.221:8001/play/a00m/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",GOL CARACOL (opc.2)
 http://181.78.8.199:8000/play/a08s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/dizanna/dizanna2302/dizanna230200492/198091340-events-text-stamp-concept-background.jpg?ver=6" group-title="EVENTOS",GOL CARACOL (opc.3)
+http://181.78.8.199:8000/play/a0hw/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 1
 
@@ -217,6 +217,9 @@ http://15.204.146.163:8001/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS (opc.2)
 http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS (opc.3)
+http://147.135.114.221:8001/play/a00m/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS 2
 
