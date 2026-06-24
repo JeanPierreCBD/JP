@@ -52,7 +52,7 @@ http://148.222.230.197:8000/play/a0g5/index.m3u8?hls
 http://8.243.126.131:8000/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA FHD
-http://148.222.230.197:8000/play/a0px/index.m3u8?hls
+http://148.222.230.197:8000/play/a0g6/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pryvTsrg/Polish-20250204-034311999.jpg" group-title="NACIONAL",PANAMERICANA FHD
 http://8.243.126.131:8000/play/a01r/index.m3u8?hls
@@ -67,7 +67,7 @@ http://8.243.126.131:8000/play/a04k/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX HD
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=4218130
+http://201.240.104.137:8000/play/a07d/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX FHD
 http://8.243.126.131:8000/play/a01s/index.m3u8?hls
