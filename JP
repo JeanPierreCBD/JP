@@ -40,7 +40,7 @@ http://148.222.230.197:8000/play/a0mm/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
-https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=850419
+http://148.222.230.197:8000/play/a0g3/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA FHD
 http://8.243.126.131:8000/play/a001/index.m3u8?hls
