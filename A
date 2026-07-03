@@ -51,7 +51,7 @@ http://8.243.126.131:8000/play/a001/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV FHD
 http://201.240.104.137:8000/play/a06d/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB3hcc25/Polish-20250204-033837275.jpg" group-title="NACIONAL",AMERICA TV
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 #http://8.243.126.131:8000/play/a01q/index.m3u8?hls
 
@@ -76,7 +76,7 @@ http://201.240.104.137:8000/play/a07d/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX FHD
 http://8.243.126.131:8000/play/a01s/index.m3u8?hls
 
- #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV HD
 http://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV FHD
