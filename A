@@ -30,7 +30,7 @@ http://41.205.70.146/BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",D SPORTS
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
-::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",RCN
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",RCN
 http://181.78.211.244:8005/play/a0ak/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfYwwz47/Polish-20250204-034845547.jpg" group-title="NACIONAL",LATINA
