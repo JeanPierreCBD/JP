@@ -95,8 +95,7 @@ http://201.240.104.137:8000/play/a0as/index.m3u8?hls
 http://190.117.20.37:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9SSGHK7/Polish-20251015-203611250.jpg" group-title="NOTICIAS",RPP
-https://cdn-ssai.smartbit.co/rpp/index.m3u8
-#http://190.117.20.37:8000/play/a0hy/index.m3u8
+http://190.117.20.37:8000/play/a0hy/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/j9SSGHK7/Polish-20251015-203611250.jpg" group-title="NOTICIAS",RPP (opc.2)
 
