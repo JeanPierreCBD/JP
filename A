@@ -283,8 +283,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/MNqy8J3/Polish-20211210-010745065.jpg" group-title="DEPORTES",M. LA LIGA 4
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nNt29nYv/Polish-20260801-120047110.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
-https://august.ppvtv.icu/stream/2b18b52cff0d1a131c68a08821a960ea?.m3u8
+::#EXTINF:-1 tvg-logo="https://i.ibb.co/nNt29nYv/Polish-20260801-120047110.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES
+
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/DQvMp6g/Polish-20211210-012124315.jpg" group-title="DEPORTES",M. LIGA DE CAMPEONES 1
 
