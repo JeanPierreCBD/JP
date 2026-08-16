@@ -13,6 +13,7 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 
 
 
+
 #EXTINF:-1 group-title="STREAMER",TVE HD
 https://streamer.metronethn.com/TVE/playlist.m3u8
 #EXTINF:-1 group-title="STREAMER",AMC HD
@@ -121,6 +122,13 @@ https://streamer.metronethn.com/France24/index.m3u8
 https://streamer.metronethn.com/RT/index.m3u8
 #EXTINF:-1 group-title="STREAMER",ESPN DEPORTES
 https://streamer.metronethn.com/EspnDeportes/index.m3u8
+#EXTINF:-1 group-title="STREAMER",GOLDEN
+https://streamer.metronethn.com/Golden/index.m3u8
+#EXTINF:-1 group-title="STREAMER",GOLDEN EDGE
+https://streamer.metronethn.com/GoldenEdge/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="ASTRA",foxsports 2
 http://190.83.85.68:80/fox_sports_2/index.m3u8
