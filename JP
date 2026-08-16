@@ -14,228 +14,232 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 
 
 
-#EXTINF:-1 group-title="STREAMER",TVE HD
-https://streamer.metronethn.com/TVE/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",AMC HD
-https://streamer.metronethn.com/AMC/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",A&E HD
+#EXTINF:-1 group-title="STREAMER",A&E HD (STREAMER)
 https://streamer.metronethn.com/AE/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",AXN HD
-https://streamer.metronethn.com/AXN/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",TCM HD
-https://streamer.metronethn.com/TCM/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",TNT HD
-https://streamer.metronethn.com/TNT/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",TLC HD
-https://streamer.metronethn.com/TLC/index.m3u8
-#EXTINF:-1 group-title="STREAMER",HBO HD
-https://streamer.metronethn.com/HBO/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",HBO HD
-https://streamer.metronethn.com/HBO2/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",HBO Plus
-https://streamer.metronethn.com/HBOPlus/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",HBO Family
-https://streamer.metronethn.com/HBOFamily/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",HBO Xtreme
-https://streamer.metronethn.com/HBOXtreme/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",ESPN 6 HD
-https://streamer.metronethn.com/ESPN6/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Pasiones
-https://streamer.metronethn.com/Pasiones/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Cinemax
-https://streamer.metronethn.com/Cinemax/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Warner TV HD
-https://streamer.metronethn.com/Warner/index.m3u8
-#EXTINF:-1 group-title="STREAMER",SONY HD
-https://streamer.metronethn.com/SONY/index.m3u8
-#EXTINF:-1 group-title="STREAMER",SONY MOVIES HD
-https://streamer.metronethn.com/SonyMovies/index.m3u8
-#EXTINF:-1 group-title="STREAMER",SPACE HD
-https://streamer.metronethn.com/Space/index.m3u8
-#EXTINF:-1 group-title="STREAMER",TNT Series HD
-https://streamer.metronethn.com/TNT_Series/index.m3u8
-#EXTINF:-1 group-title="STREAMER",TNT Novelas HD
-https://streamer.metronethn.com/TNT_NOVELAS/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",Telemundo HD
-https://streamer.metronethn.com/Telemundo/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Studio Universal
-https://streamer.metronethn.com/StudioUniversal/playlist.m3u8
-#EXTINF:-1 group-title="STREAMER",Universal
-https://streamer.metronethn.com/Universal/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Univision HD
-https://streamer.metronethn.com/Univision/index.m3u8
-#EXTINF:-1 group-title="STREAMER",MTV HD
-https://streamer.metronethn.com/MTV/index.m3u8
-#EXTINF:-1 group-title="STREAMER",NatGeo HD
-https://streamer.metronethn.com/NatGeo/index.m3u8
-#EXTINF:-1 group-title="STREAMER",HISTORY HD
-https://streamer.metronethn.com/History/index.m3u8
-#EXTINF:-1 group-title="STREAMER",HISTORY 2 HD
-https://streamer.metronethn.com/H2/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery World HD
-https://streamer.metronethn.com/DiscoveryWorld/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery channel
-https://streamer.metronethn.com/Discovery/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery ID
-https://streamer.metronethn.com/DiscoveryID/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery Turbo
-https://streamer.metronethn.com/DiscoveryTurbo/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery Science HD
-https://streamer.metronethn.com/DiscoveryScience/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery Theater HD
-https://streamer.metronethn.com/DiscoveryTheater/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery HH HD
-https://streamer.metronethn.com/DiscoveryHH/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Animal Planet HD
-https://streamer.metronethn.com/AnimalPlanet/index.m3u8
-#EXTINF:-1 group-title="STREAMER",HGTV HD
-https://streamer.metronethn.com/HGTV/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Lifetime
-https://streamer.metronethn.com/Lifetime/index.m3u8
-#EXTINF:-1 group-title="STREAMER",AdultSwim
+#EXTINF:-1 group-title="STREAMER",AdultSwim (STREAMER)
 https://streamer.metronethn.com/AdultSwim/index.m3u8
-#EXTINF:-1 group-title="STREAMER",DisneyJR
-https://streamer.metronethn.com/DisneyJR/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Tooncast
-https://streamer.metronethn.com/Tooncast/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Cartoonito HD
-https://streamer.metronethn.com/Cartoonito/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Cartoon Network HD
-https://streamer.metronethn.com/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Discovery Kids HD
-https://streamer.metronethn.com/DiscoveryKids/index.m3u8
-#EXTINF:-1 group-title="STREAMER",BabyTV
-https://streamer.metronethn.com/BabyTV/index.m3u8
-#EXTINF:-1 group-title="STREAMER",VTV
-https://streamer.metronethn.com/VTV/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Canal11
-https://streamer.metronethn.com/Canal11/index.m3u8
-#EXTINF:-1 group-title="STREAMER",RCN Novelas
-https://streamer.metronethn.com/RCNNovelas/index.m3u8
-#EXTINF:-1 group-title="STREAMER",Antena3
+#EXTINF:-1 group-title="STREAMER",AMC HD (STREAMER)
+https://streamer.metronethn.com/AMC/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",Animal Planet HD (STREAMER)
+https://streamer.metronethn.com/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Antena3 (STREAMER)
 https://streamer.metronethn.com/Antena3/index.m3u8
-#EXTINF:-1 group-title="STREAMER",BBC News
+#EXTINF:-1 group-title="STREAMER",AXN HD (STREAMER)
+https://streamer.metronethn.com/AXN/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",BabyTV (STREAMER)
+https://streamer.metronethn.com/BabyTV/index.m3u8
+#EXTINF:-1 group-title="STREAMER",BBC News (STREAMER)
 https://streamer.metronethn.com/BBC_News/index.m3u8
-#EXTINF:-1 group-title="STREAMER",France24
-https://streamer.metronethn.com/France24/index.m3u8
-#EXTINF:-1 group-title="STREAMER",RT
-https://streamer.metronethn.com/RT/index.m3u8
-#EXTINF:-1 group-title="STREAMER",ESPN DEPORTES
+#EXTINF:-1 group-title="STREAMER",Canal11 (STREAMER)
+https://streamer.metronethn.com/Canal11/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Cartoon Network HD (STREAMER)
+https://streamer.metronethn.com/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Cartoonito HD (STREAMER)
+https://streamer.metronethn.com/Cartoonito/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Cinemax (STREAMER)
+https://streamer.metronethn.com/Cinemax/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery channel (STREAMER)
+https://streamer.metronethn.com/Discovery/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery HH HD (STREAMER)
+https://streamer.metronethn.com/DiscoveryHH/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery ID (STREAMER)
+https://streamer.metronethn.com/DiscoveryID/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery Kids HD (STREAMER)
+https://streamer.metronethn.com/DiscoveryKids/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery Science HD (STREAMER)
+https://streamer.metronethn.com/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery Theater HD (STREAMER)
+https://streamer.metronethn.com/DiscoveryTheater/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery Turbo (STREAMER)
+https://streamer.metronethn.com/DiscoveryTurbo/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Discovery World HD (STREAMER)
+https://streamer.metronethn.com/DiscoveryWorld/index.m3u8
+#EXTINF:-1 group-title="STREAMER",DisneyJR (STREAMER)
+https://streamer.metronethn.com/DisneyJR/index.m3u8
+#EXTINF:-1 group-title="STREAMER",ESPN 6 HD (STREAMER)
+https://streamer.metronethn.com/ESPN6/index.m3u8
+#EXTINF:-1 group-title="STREAMER",ESPN DEPORTES (STREAMER)
 https://streamer.metronethn.com/EspnDeportes/index.m3u8
-#EXTINF:-1 group-title="STREAMER",GOLDEN
+#EXTINF:-1 group-title="STREAMER",France24 (STREAMER)
+https://streamer.metronethn.com/France24/index.m3u8
+#EXTINF:-1 group-title="STREAMER",GOLDEN (STREAMER)
 https://streamer.metronethn.com/Golden/index.m3u8
-#EXTINF:-1 group-title="STREAMER",GOLDEN EDGE
+#EXTINF:-1 group-title="STREAMER",GOLDEN EDGE (STREAMER)
 https://streamer.metronethn.com/GoldenEdge/index.m3u8
+#EXTINF:-1 group-title="STREAMER",HGTV HD (STREAMER)
+https://streamer.metronethn.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="STREAMER",HBO Family (STREAMER)
+https://streamer.metronethn.com/HBOFamily/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",HBO HD (STREAMER)
+https://streamer.metronethn.com/HBO/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",HBO HD (STREAMER)
+https://streamer.metronethn.com/HBO2/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",HBO Plus (STREAMER)
+https://streamer.metronethn.com/HBOPlus/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",HBO Xtreme (STREAMER)
+https://streamer.metronethn.com/HBOXtreme/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",HISTORY 2 HD (STREAMER)
+https://streamer.metronethn.com/H2/index.m3u8
+#EXTINF:-1 group-title="STREAMER",HISTORY HD (STREAMER)
+https://streamer.metronethn.com/History/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Lifetime (STREAMER)
+https://streamer.metronethn.com/Lifetime/index.m3u8
+#EXTINF:-1 group-title="STREAMER",MTV HD (STREAMER)
+https://streamer.metronethn.com/MTV/index.m3u8
+#EXTINF:-1 group-title="STREAMER",NatGeo HD (STREAMER)
+https://streamer.metronethn.com/NatGeo/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Pasiones (STREAMER)
+https://streamer.metronethn.com/Pasiones/index.m3u8
+#EXTINF:-1 group-title="STREAMER",RCN Novelas (STREAMER)
+https://streamer.metronethn.com/RCNNovelas/index.m3u8
+#EXTINF:-1 group-title="STREAMER",RT (STREAMER)
+https://streamer.metronethn.com/RT/index.m3u8
+#EXTINF:-1 group-title="STREAMER",SONY HD (STREAMER)
+https://streamer.metronethn.com/SONY/index.m3u8
+#EXTINF:-1 group-title="STREAMER",SONY MOVIES HD (STREAMER)
+https://streamer.metronethn.com/SonyMovies/index.m3u8
+#EXTINF:-1 group-title="STREAMER",SPACE HD (STREAMER)
+https://streamer.metronethn.com/Space/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Studio Universal (STREAMER)
+https://streamer.metronethn.com/StudioUniversal/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",TCM HD (STREAMER)
+https://streamer.metronethn.com/TCM/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",Telemundo HD (STREAMER)
+https://streamer.metronethn.com/Telemundo/index.m3u8
+#EXTINF:-1 group-title="STREAMER",TLC HD (STREAMER)
+https://streamer.metronethn.com/TLC/index.m3u8
+#EXTINF:-1 group-title="STREAMER",TNT HD (STREAMER)
+https://streamer.metronethn.com/TNT/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",TNT Novelas HD (STREAMER)
+https://streamer.metronethn.com/TNT_NOVELAS/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",TNT Series HD (STREAMER)
+https://streamer.metronethn.com/TNT_Series/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Tooncast (STREAMER)
+https://streamer.metronethn.com/Tooncast/index.m3u8
+#EXTINF:-1 group-title="STREAMER",TVE HD (STREAMER)
+https://streamer.metronethn.com/TVE/playlist.m3u8
+#EXTINF:-1 group-title="STREAMER",Universal (STREAMER)
+https://streamer.metronethn.com/Universal/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Univision HD (STREAMER)
+https://streamer.metronethn.com/Univision/index.m3u8
+#EXTINF:-1 group-title="STREAMER",VTV (STREAMER)
+https://streamer.metronethn.com/VTV/index.m3u8
+#EXTINF:-1 group-title="STREAMER",Warner TV HD (STREAMER)
+https://streamer.metronethn.com/Warner/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="ASTRA BRASIL",foxsports 2
-http://190.83.85.68:80/fox_sports_2/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Band Sports
-http://190.83.85.68:80/band_sports/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",ESPN
-http://190.83.85.68:80/espn/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 2
-http://190.83.85.68:80/espn2/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 3
-http://190.83.85.68:80/espn3/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 4
-http://190.83.85.68:80/espn4/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",AMC
-http://190.83.85.68:80/amc/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",AXN
-http://190.83.85.68:80/axn/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",A&E
+#EXTINF:-1 group-title="ASTRA BRASIL",A&E (ASTRA BRASIL)
 http://190.83.85.68:80/ae/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HBO
-http://190.83.85.68:80/hbo/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HBO 2
-http://190.83.85.68:80/hbo2/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HBO Family
-http://190.83.85.68:80/hbo_family/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HBO Mundi
-http://190.83.85.68:80/hbo_mundi/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HBO Pop
-http://190.83.85.68:80/hbo_pop/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HBO Xtreme
-http://190.83.85.68:80/hbo_xtreme/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HBO Plus
-http://190.83.85.68:80/hbo_plus/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TCM
-http://190.83.85.68:80/tcm/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TLC
-http://190.83.85.68:80/tlc/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Space
-http://190.83.85.68:80/space/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Cinemax
-http://190.83.85.68:80/cinemax/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Megapix
-http://190.83.85.68:80/megapix/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Studio Universal
-http://190.83.85.68:80/studiouniversal/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Curta!
-http://190.83.85.68:80/curta/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Telecine Pipoca
-http://190.83.85.68:80/telecine_pipoca/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Warner Channel
-http://190.83.85.68:80/warner/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TNT
-http://190.83.85.68:80/tnt/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TNT Novelas
-http://190.83.85.68:80/tnt_novelas/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TNT Series
-http://190.83.85.68:80/tnt_series/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Sony Channel
-http://190.83.85.68:80/sony/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Gloobo
-http://190.83.85.68:80/globo/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Kids
-http://190.83.85.68:80/discovery_kids/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Channel
-http://190.83.85.68:80/discovery/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Discovery ıd
-http://190.83.85.68:80/id/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Science
-http://190.83.85.68:80/discovery_science/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Discovery World
-http://190.83.85.68:80/discovery_world/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Turbo
-http://190.83.85.68:80/discovery_turbo/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Animal Planet
+#EXTINF:-1 group-title="ASTRA BRASIL",AMC (ASTRA BRASIL)
+http://190.83.85.68:80/amc/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Animal Planet (ASTRA BRASIL)
 http://190.83.85.68:80/animal_planet/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",History
-http://190.83.85.68:80/history/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",History 2
-http://190.83.85.68:80/h2/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",HGTV
-http://190.83.85.68:80/hgtv/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Viva
-http://190.83.85.68:80/viva/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",OFF
-http://190.83.85.68:80/off/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",GNT
-http://190.83.85.68:80/gnt/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Arte 1
+#EXTINF:-1 group-title="ASTRA BRASIL",Arte 1 (ASTRA BRASIL)
 http://190.83.85.68:80/arte_1/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TV Cultura
-http://190.83.85.68:80/cultura/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Globo News
-http://190.83.85.68:80/globo_news/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Band News
-http://190.83.85.68:80/band_news/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Record News
-http://190.83.85.68:80/record_news/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",SBT
-http://190.83.85.68:80/sbt/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Band
+#EXTINF:-1 group-title="ASTRA BRASIL",AXN (ASTRA BRASIL)
+http://190.83.85.68:80/axn/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Band (ASTRA BRASIL)
 http://190.83.85.68:80/band/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",Record TV
+#EXTINF:-1 group-title="ASTRA BRASIL",Band News (ASTRA BRASIL)
+http://190.83.85.68:80/band_news/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Band Sports (ASTRA BRASIL)
+http://190.83.85.68:80/band_sports/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",CAZE TV HD (ASTRA BRASIL)
+http://190.83.85.68/caze_tv/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Cinemax (ASTRA BRASIL)
+http://190.83.85.68:80/cinemax/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Curta! (ASTRA BRASIL)
+http://190.83.85.68:80/curta/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Channel (ASTRA BRASIL)
+http://190.83.85.68:80/discovery/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Kids (ASTRA BRASIL)
+http://190.83.85.68:80/discovery_kids/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Science (ASTRA BRASIL)
+http://190.83.85.68:80/discovery_science/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Turbo (ASTRA BRASIL)
+http://190.83.85.68:80/discovery_turbo/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery World (ASTRA BRASIL)
+http://190.83.85.68:80/discovery_world/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery ıd (ASTRA BRASIL)
+http://190.83.85.68:80/id/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN (ASTRA BRASIL)
+http://190.83.85.68:80/espn/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 2 (ASTRA BRASIL)
+http://190.83.85.68:80/espn2/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 3 (ASTRA BRASIL)
+http://190.83.85.68:80/espn3/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 4 (ASTRA BRASIL)
+http://190.83.85.68:80/espn4/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Fox Sports 2 (ASTRA BRASIL)
+http://190.83.85.68:80/fox_sports_2/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Globo (ASTRA BRASIL)
+http://190.83.85.68:80/globo/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Globo News (ASTRA BRASIL)
+http://190.83.85.68:80/globo_news/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",GNT (ASTRA BRASIL)
+http://190.83.85.68:80/gnt/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HGTV (ASTRA BRASIL)
+http://190.83.85.68:80/hgtv/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO (ASTRA BRASIL)
+http://190.83.85.68:80/hbo/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO 2 (ASTRA BRASIL)
+http://190.83.85.68:80/hbo2/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Family (ASTRA BRASIL)
+http://190.83.85.68:80/hbo_family/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Mundi (ASTRA BRASIL)
+http://190.83.85.68:80/hbo_mundi/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Plus (ASTRA BRASIL)
+http://190.83.85.68:80/hbo_plus/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Pop (ASTRA BRASIL)
+http://190.83.85.68:80/hbo_pop/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Xtreme (ASTRA BRASIL)
+http://190.83.85.68:80/hbo_xtreme/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",History (ASTRA BRASIL)
+http://190.83.85.68:80/history/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",History 2 (ASTRA BRASIL)
+http://190.83.85.68:80/h2/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Megapix (ASTRA BRASIL)
+http://190.83.85.68:80/megapix/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",OFF (ASTRA BRASIL)
+http://190.83.85.68:80/off/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Record News (ASTRA BRASIL)
+http://190.83.85.68:80/record_news/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Record TV (ASTRA BRASIL)
 http://190.83.85.68:80/record/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",RedeTV!
+#EXTINF:-1 group-title="ASTRA BRASIL",RedeTV! (ASTRA BRASIL)
 http://190.83.85.68:80/rede_tv/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TV Brasil
+#EXTINF:-1 group-title="ASTRA BRASIL",SBT (ASTRA BRASIL)
+http://190.83.85.68:80/sbt/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Sony Channel (ASTRA BRASIL)
+http://190.83.85.68:80/sony/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Space (ASTRA BRASIL)
+http://190.83.85.68:80/space/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Studio Universal (ASTRA BRASIL)
+http://190.83.85.68:80/studiouniversal/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",TCM (ASTRA BRASIL)
+http://190.83.85.68:80/tcm/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Telecine Pipoca (ASTRA BRASIL)
+http://190.83.85.68:80/telecine_pipoca/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",TLC (ASTRA BRASIL)
+http://190.83.85.68:80/tlc/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",TNT (ASTRA BRASIL)
+http://190.83.85.68:80/tnt/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",TNT Novelas (ASTRA BRASIL)
+http://190.83.85.68:80/tnt_novelas/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",TNT Series (ASTRA BRASIL)
+http://190.83.85.68:80/tnt_series/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",TV Brasil (ASTRA BRASIL)
 http://190.83.85.68:80/tv_brasil/index.m3u8
-#EXTINF:-1 group-title="ASTRA BRASIL",TV Gazeta
+#EXTINF:-1 group-title="ASTRA BRASIL",TV Cultura (ASTRA BRASIL)
+http://190.83.85.68:80/cultura/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",TV Gazeta (ASTRA BRASIL)
 http://190.83.85.68:80/gazeta/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Viva (ASTRA BRASIL)
+http://190.83.85.68:80/viva/index.m3u8
+#EXTINF:-1 group-title="ASTRA BRASIL",Warner Channel (ASTRA BRASIL)
+http://190.83.85.68:80/warner/index.m3u8
+
+
 
