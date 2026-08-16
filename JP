@@ -130,113 +130,112 @@ https://streamer.metronethn.com/GoldenEdge/index.m3u8
 
 
 
-#EXTINF:-1 group-title="ASTRA",foxsports 2
+#EXTINF:-1 group-title="ASTRA BRASIL",foxsports 2
 http://190.83.85.68:80/fox_sports_2/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Band Sports
+#EXTINF:-1 group-title="ASTRA BRASIL",Band Sports
 http://190.83.85.68:80/band_sports/index.m3u8
-#EXTINF:-1 group-title="ASTRA",ESPN
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN
 http://190.83.85.68:80/espn/index.m3u8
-#EXTINF:-1 group-title="ASTRA",ESPN 2
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 2
 http://190.83.85.68:80/espn2/index.m3u8
-#EXTINF:-1 group-title="ASTRA",ESPN 3
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 3
 http://190.83.85.68:80/espn3/index.m3u8
-#EXTINF:-1 group-title="ASTRA",ESPN 4
+#EXTINF:-1 group-title="ASTRA BRASIL",ESPN 4
 http://190.83.85.68:80/espn4/index.m3u8
-#EXTINF:-1 group-title="ASTRA",AMC
+#EXTINF:-1 group-title="ASTRA BRASIL",AMC
 http://190.83.85.68:80/amc/index.m3u8
-#EXTINF:-1 group-title="ASTRA",AXN
+#EXTINF:-1 group-title="ASTRA BRASIL",AXN
 http://190.83.85.68:80/axn/index.m3u8
-#EXTINF:-1 group-title="ASTRA",A&E
+#EXTINF:-1 group-title="ASTRA BRASIL",A&E
 http://190.83.85.68:80/ae/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HBO
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO
 http://190.83.85.68:80/hbo/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HBO 2
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO 2
 http://190.83.85.68:80/hbo2/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HBO Family
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Family
 http://190.83.85.68:80/hbo_family/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HBO Mundi
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Mundi
 http://190.83.85.68:80/hbo_mundi/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HBO Pop
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Pop
 http://190.83.85.68:80/hbo_pop/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HBO Xtreme
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Xtreme
 http://190.83.85.68:80/hbo_xtreme/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HBO Plus
+#EXTINF:-1 group-title="ASTRA BRASIL",HBO Plus
 http://190.83.85.68:80/hbo_plus/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TCM
+#EXTINF:-1 group-title="ASTRA BRASIL",TCM
 http://190.83.85.68:80/tcm/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TLC
+#EXTINF:-1 group-title="ASTRA BRASIL",TLC
 http://190.83.85.68:80/tlc/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Space
+#EXTINF:-1 group-title="ASTRA BRASIL",Space
 http://190.83.85.68:80/space/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Cinemax
+#EXTINF:-1 group-title="ASTRA BRASIL",Cinemax
 http://190.83.85.68:80/cinemax/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Megapix
+#EXTINF:-1 group-title="ASTRA BRASIL",Megapix
 http://190.83.85.68:80/megapix/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Studio Universal
+#EXTINF:-1 group-title="ASTRA BRASIL",Studio Universal
 http://190.83.85.68:80/studiouniversal/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Curta!
+#EXTINF:-1 group-title="ASTRA BRASIL",Curta!
 http://190.83.85.68:80/curta/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Telecine Pipoca
+#EXTINF:-1 group-title="ASTRA BRASIL",Telecine Pipoca
 http://190.83.85.68:80/telecine_pipoca/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Warner Channel
+#EXTINF:-1 group-title="ASTRA BRASIL",Warner Channel
 http://190.83.85.68:80/warner/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TNT
+#EXTINF:-1 group-title="ASTRA BRASIL",TNT
 http://190.83.85.68:80/tnt/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TNT Novelas
+#EXTINF:-1 group-title="ASTRA BRASIL",TNT Novelas
 http://190.83.85.68:80/tnt_novelas/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TNT Series
+#EXTINF:-1 group-title="ASTRA BRASIL",TNT Series
 http://190.83.85.68:80/tnt_series/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Sony Channel
+#EXTINF:-1 group-title="ASTRA BRASIL",Sony Channel
 http://190.83.85.68:80/sony/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Gloobo
+#EXTINF:-1 group-title="ASTRA BRASIL",Gloobo
 http://190.83.85.68:80/globo/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Discovery Kids
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Kids
 http://190.83.85.68:80/discovery_kids/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Discovery Channel
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Channel
 http://190.83.85.68:80/discovery/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Discovery ıd
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery ıd
 http://190.83.85.68:80/id/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Discovery Science
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Science
 http://190.83.85.68:80/discovery_science/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Discovery World
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery World
 http://190.83.85.68:80/discovery_world/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Discovery Turbo
+#EXTINF:-1 group-title="ASTRA BRASIL",Discovery Turbo
 http://190.83.85.68:80/discovery_turbo/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Animal Planet
+#EXTINF:-1 group-title="ASTRA BRASIL",Animal Planet
 http://190.83.85.68:80/animal_planet/index.m3u8
-#EXTINF:-1 group-title="ASTRA",History
+#EXTINF:-1 group-title="ASTRA BRASIL",History
 http://190.83.85.68:80/history/index.m3u8
-#EXTINF:-1 group-title="ASTRA",History 2
+#EXTINF:-1 group-title="ASTRA BRASIL",History 2
 http://190.83.85.68:80/h2/index.m3u8
-#EXTINF:-1 group-title="ASTRA",HGTV
+#EXTINF:-1 group-title="ASTRA BRASIL",HGTV
 http://190.83.85.68:80/hgtv/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Viva
+#EXTINF:-1 group-title="ASTRA BRASIL",Viva
 http://190.83.85.68:80/viva/index.m3u8
-#EXTINF:-1 group-title="ASTRA",OFF
+#EXTINF:-1 group-title="ASTRA BRASIL",OFF
 http://190.83.85.68:80/off/index.m3u8
-#EXTINF:-1 group-title="ASTRA",GNT
+#EXTINF:-1 group-title="ASTRA BRASIL",GNT
 http://190.83.85.68:80/gnt/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Arte 1
+#EXTINF:-1 group-title="ASTRA BRASIL",Arte 1
 http://190.83.85.68:80/arte_1/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TV Cultura
+#EXTINF:-1 group-title="ASTRA BRASIL",TV Cultura
 http://190.83.85.68:80/cultura/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Globo News
+#EXTINF:-1 group-title="ASTRA BRASIL",Globo News
 http://190.83.85.68:80/globo_news/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Band News
+#EXTINF:-1 group-title="ASTRA BRASIL",Band News
 http://190.83.85.68:80/band_news/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Record News
+#EXTINF:-1 group-title="ASTRA BRASIL",Record News
 http://190.83.85.68:80/record_news/index.m3u8
-#EXTINF:-1 group-title="ASTRA",SBT
+#EXTINF:-1 group-title="ASTRA BRASIL",SBT
 http://190.83.85.68:80/sbt/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Band
+#EXTINF:-1 group-title="ASTRA BRASIL",Band
 http://190.83.85.68:80/band/index.m3u8
-#EXTINF:-1 group-title="ASTRA",Record TV
+#EXTINF:-1 group-title="ASTRA BRASIL",Record TV
 http://190.83.85.68:80/record/index.m3u8
-#EXTINF:-1 group-title="ASTRA",RedeTV!
+#EXTINF:-1 group-title="ASTRA BRASIL",RedeTV!
 http://190.83.85.68:80/rede_tv/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TV Brasil
+#EXTINF:-1 group-title="ASTRA BRASIL",TV Brasil
 http://190.83.85.68:80/tv_brasil/index.m3u8
-#EXTINF:-1 group-title="ASTRA",TV Gazeta
+#EXTINF:-1 group-title="ASTRA BRASIL",TV Gazeta
 http://190.83.85.68:80/gazeta/index.m3u8
-
 
