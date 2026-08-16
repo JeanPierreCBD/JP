@@ -11,8 +11,116 @@ http://181.78.8.199:8000/play/a0a6/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/017/043/319/non_2x/wrench-isometric-3d-illustration-vector.jpg" group-title="PRUEBAS",PRUEBA 4
 
-#EXTINF:-1 group-title="Sky",Sky la liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
-https://paz-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+#EXTINF:-1,TVE HD
+https://streamer.metronethn.com/TVE/playlist.m3u8
+#EXTINF:-1,AMC HD
+https://streamer.metronethn.com/AMC/playlist.m3u8
+#EXTINF:-1,A&E HD
+https://streamer.metronethn.com/AE/playlist.m3u8
+#EXTINF:-1,AXN HD
+https://streamer.metronethn.com/AXN/playlist.m3u8
+#EXTINF:-1,TCM HD
+https://streamer.metronethn.com/TCM/playlist.m3u8
+#EXTINF:-1,TNT HD
+https://streamer.metronethn.com/TNT/playlist.m3u8
+#EXTINF:-1,TLC HD
+https://streamer.metronethn.com/TLC/index.m3u8
+#EXTINF:-1,HBO HD
+https://streamer.metronethn.com/HBO/playlist.m3u8
+#EXTINF:-1,HBO HD
+https://streamer.metronethn.com/HBO2/playlist.m3u8
+#EXTINF:-1,HBO Plus
+https://streamer.metronethn.com/HBOPlus/playlist.m3u8
+#EXTINF:-1,HBO Family
+https://streamer.metronethn.com/HBOFamily/playlist.m3u8
+#EXTINF:-1,HBO Xtreme
+https://streamer.metronethn.com/HBOXtreme/playlist.m3u8
+#EXTINF:-1,ESPN 6 HD
+https://streamer.metronethn.com/ESPN6/index.m3u8
+#EXTINF:-1,Pasiones
+https://streamer.metronethn.com/Pasiones/index.m3u8
+#EXTINF:-1,Cinemax
+https://streamer.metronethn.com/Cinemax/index.m3u8
+#EXTINF:-1,Warner TV HD
+https://streamer.metronethn.com/Warner/index.m3u8
+#EXTINF:-1,SONY HD
+https://streamer.metronethn.com/SONY/index.m3u8
+#EXTINF:-1,SONY MOVIES HD
+https://streamer.metronethn.com/SonyMovies/index.m3u8
+#EXTINF:-1,SPACE HD
+https://streamer.metronethn.com/Space/index.m3u8
+#EXTINF:-1,TNT Series HD
+https://streamer.metronethn.com/TNT_Series/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+https://streamer.metronethn.com/TNT_NOVELAS/playlist.m3u8
+#EXTINF:-1,Telemundo HD
+https://streamer.metronethn.com/Telemundo/index.m3u8
+#EXTINF:-1,Studio Universal
+https://streamer.metronethn.com/StudioUniversal/playlist.m3u8
+#EXTINF:-1,Universal
+https://streamer.metronethn.com/Universal/index.m3u8
+#EXTINF:-1,Univision HD
+https://streamer.metronethn.com/Univision/index.m3u8
+#EXTINF:-1,MTV HD
+https://streamer.metronethn.com/MTV/index.m3u8
+#EXTINF:-1,NatGeo HD
+https://streamer.metronethn.com/NatGeo/index.m3u8
+#EXTINF:-1,HISTORY HD
+https://streamer.metronethn.com/History/index.m3u8
+#EXTINF:-1,HISTORY 2 HD
+https://streamer.metronethn.com/H2/index.m3u8
+#EXTINF:-1,Discovery World HD
+https://streamer.metronethn.com/DiscoveryWorld/index.m3u8
+#EXTINF:-1,Discovery channel
+https://streamer.metronethn.com/Discovery/index.m3u8
+#EXTINF:-1,Discovery ID
+https://streamer.metronethn.com/DiscoveryID/index.m3u8
+#EXTINF:-1,Discovery Turbo
+https://streamer.metronethn.com/DiscoveryTurbo/index.m3u8
+#EXTINF:-1,Discovery Science HD
+https://streamer.metronethn.com/DiscoveryScience/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+https://streamer.metronethn.com/DiscoveryTheater/index.m3u8
+#EXTINF:-1,Discovery HH HD
+https://streamer.metronethn.com/DiscoveryHH/index.m3u8
+#EXTINF:-1,Animal Planet HD
+https://streamer.metronethn.com/AnimalPlanet/index.m3u8
+#EXTINF:-1,HGTV HD
+https://streamer.metronethn.com/HGTV/index.m3u8
+#EXTINF:-1,Lifetime
+https://streamer.metronethn.com/Lifetime/index.m3u8
+#EXTINF:-1,AdultSwim
+https://streamer.metronethn.com/AdultSwim/index.m3u8
+#EXTINF:-1,DisneyJR
+https://streamer.metronethn.com/DisneyJR/index.m3u8
+#EXTINF:-1,Tooncast
+https://streamer.metronethn.com/Tooncast/index.m3u8
+#EXTINF:-1,Cartoonito HD
+https://streamer.metronethn.com/Cartoonito/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+https://streamer.metronethn.com/CartoonNetwork/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+https://streamer.metronethn.com/DiscoveryKids/index.m3u8
+#EXTINF:-1,BabyTV
+https://streamer.metronethn.com/BabyTV/index.m3u8
+#EXTINF:-1,VTV
+https://streamer.metronethn.com/VTV/index.m3u8
+#EXTINF:-1,Canal11
+https://streamer.metronethn.com/Canal11/index.m3u8
+#EXTINF:-1,RCN Novelas
+https://streamer.metronethn.com/RCNNovelas/index.m3u8
+#EXTINF:-1,Antena3
+https://streamer.metronethn.com/Antena3/index.m3u8
+#EXTINF:-1,BBC News
+https://streamer.metronethn.com/BBC_News/index.m3u8
+#EXTINF:-1,France24
+https://streamer.metronethn.com/France24/index.m3u8
+#EXTINF:-1,RT
+https://streamer.metronethn.com/RT/index.m3u8
+
+::#EXTINF:-1 group-title="Sky",Sky la liga
+::#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+::#KODIPROP:inputstream.adaptive.license_type=clearkey
+::#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+::https://paz-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
