@@ -119,7 +119,8 @@ https://streamer.metronethn.com/BBC_News/index.m3u8
 https://streamer.metronethn.com/France24/index.m3u8
 #EXTINF:-1 group-title="STREAMER",RT
 https://streamer.metronethn.com/RT/index.m3u8
-
+#EXTINF:-1 group-title="STREAMER",ESPN DEPORTES
+https://streamer.metronethn.com/EspnDeportes/index.m3u8
 
 #EXTINF:-1 group-title="ASTRA",foxsports 2
 http://190.83.85.68:80/fox_sports_2/index.m3u8
