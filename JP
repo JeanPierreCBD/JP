@@ -243,3 +243,32 @@ http://190.83.85.68:80/warner/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="REINO UNIDO",Football 1 (REINO UNIDO)
+http://188.138.29.131/football1/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Mma Tv (REINO UNIDO)
+http://188.138.29.131/mmatv/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Nbc Sport Network (REINO UNIDO)
+http://188.138.29.131/nbcsn/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Nhl (REINO UNIDO)
+http://188.138.29.131/nhl/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Okko Championat (REINO UNIDO)
+http://188.138.29.131/okkochampionat/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Okko Football (REINO UNIDO)
+http://188.138.29.131/okkofootball/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Okko Sport (REINO UNIDO)
+http://188.138.29.131/okkosport/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Sky Football (REINO UNIDO)
+http://188.138.29.131/skyfootball/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Sky Sports F1 (REINO UNIDO)
+http://188.138.29.131/skysportsf1/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Start (REINO UNIDO)
+http://188.138.29.131/start/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Tnt Sport 1 (REINO UNIDO)
+http://188.138.29.131/tntsport1/index.m3u8
+#EXTINF:-1 group-title="REINO UNIDO",Ufc Tv (REINO UNIDO)
+http://188.138.29.131/ufctv/index.m3u8
+
+
+
+
