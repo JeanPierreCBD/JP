@@ -300,56 +300,31 @@ http://94.130.32.19:8080/sporttv7/index.m3u8
 
 
 
-#EXTINF:-1 xui-id="118270" tvg-id="" tvg-name="CO | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS HD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDGzr4C1nBzp6qMuC09kbYstht9DFrL-KvoVqv5tPZtQH
-#EXTINF:-1 xui-id="118271" tvg-id="" tvg-name="CO | DTV SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS FHD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDPkWaNxyiFQhbUvz5zqJnW43DqDTCpIE8q7TZqNs1fab
-#EXTINF:-1 xui-id="118272" tvg-id="" tvg-name="AR | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",AR | DTV SPORTS HD
+#EXTINF:-1 xui-id="118272" tvg-id="" tvg-name="AR | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",AR | D SPORTS HD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDEXj5DZxsJSjE2wJyLwNLXJvFswacChCZp-R8bLGVm2i
-#EXTINF:-1 xui-id="118273" tvg-id="" tvg-name="AR | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",AR | DTV SPORTS HD
+#EXTINF:-1 xui-id="118273" tvg-id="" tvg-name="AR | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",AR | D SPORTS HD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDBRzbplefMCjwN7jLyzyGzaSAwZ9nUz5SbuoB1VxrMQT
-#EXTINF:-1 xui-id="118274" tvg-id="" tvg-name="EC | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS HD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDCxt39M3-zRRslloqIGqenyF1Ho-Z3A_3opkWMLEVSHP
-#EXTINF:-1 xui-id="118275" tvg-id="" tvg-name="EC | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS HD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDHUisoA0Xrj9gaj7Yy3A_5SMUc50KKZlSrFwiwykorp5
-#EXTINF:-1 xui-id="118277" tvg-id="" tvg-name="AR | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",AR | DTV SPORTS 2 FHD
+#EXTINF:-1 xui-id="118277" tvg-id="" tvg-name="AR | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",AR | D SPORTS 2 FHD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDJM70Es4cGCc7PNqVmbIq4LwGJsyc0ylTnDY3v4SQCjv
-#EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS 2 FHD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDDo_MjI4FdxZx_GaRZSLmVwa65htR3hPN9WlNEdmWi76
-#EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",EC | DTV SPORTS 2 FHD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDEqyu297CyJGIhAt7bie5wz3obDsLK5U7Z9CyNloW1gQ
-#EXTINF:-1 xui-id="118282" tvg-id="" tvg-name="AR | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",AR | DTV SPORTS+ FHD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDGIPhEz5hOQOZpERae0mUq8DjKtozoc0HUxv-rVuy0ai
-#EXTINF:-1 xui-id="118284" tvg-id="" tvg-name="CO | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="⚽ DSPORTS",CO | DTV SPORTS+ FHD
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDMW1RYNfGSujfyNR6WoTSuPsCm0W_bG2wJOQXCQRjfXb
-
-
-
-
-#EXTINF:-1 xui-id="118272" tvg-id="" tvg-name="AR | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS HD AR
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDEXj5DZxsJSjE2wJyLwNLXJvFswacChCZp-R8bLGVm2i
-#EXTINF:-1 xui-id="118273" tvg-id="" tvg-name="AR | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS HD AR
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDBRzbplefMCjwN7jLyzyGzaSAwZ9nUz5SbuoB1VxrMQT
-#EXTINF:-1 xui-id="118277" tvg-id="" tvg-name="AR | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS 2 FHD AR
-http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDJM70Es4cGCc7PNqVmbIq4LwGJsyc0ylTnDY3v4SQCjv
-#EXTINF:-1 xui-id="118282" tvg-id="" tvg-name="AR | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS+ FHD AR
+#EXTINF:-1 xui-id="118282" tvg-id="" tvg-name="AR | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",AR | D SPORTS+ FHD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDGIPhEz5hOQOZpERae0mUq8DjKtozoc0HUxv-rVuy0ai
 
-#EXTINF:-1 xui-id="118270" tvg-id="" tvg-name="CO | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS HD CO
+#EXTINF:-1 xui-id="118270" tvg-id="" tvg-name="CO | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",CO | D SPORTS HD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDGzr4C1nBzp6qMuC09kbYstht9DFrL-KvoVqv5tPZtQH
-#EXTINF:-1 xui-id="118271" tvg-id="" tvg-name="CO | DTV SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS FHD CO
+#EXTINF:-1 xui-id="118271" tvg-id="" tvg-name="CO | DTV SPORTS FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",CO | D SPORTS FHD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDPkWaNxyiFQhbUvz5zqJnW43DqDTCpIE8q7TZqNs1fab
-#EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS 2 FHD CO
+#EXTINF:-1 xui-id="118278" tvg-id="" tvg-name="CO | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",CO | D SPORTS 2 FHD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDDo_MjI4FdxZx_GaRZSLmVwa65htR3hPN9WlNEdmWi76
-#EXTINF:-1 xui-id="118284" tvg-id="" tvg-name="CO | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS+ FHD CO
+#EXTINF:-1 xui-id="118284" tvg-id="" tvg-name="CO | DTV SPORTS+ FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",CO | D SPORTS+ FHD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDMW1RYNfGSujfyNR6WoTSuPsCm0W_bG2wJOQXCQRjfXb
 
-#EXTINF:-1 xui-id="118274" tvg-id="" tvg-name="EC | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS HD EC
+#EXTINF:-1 xui-id="118274" tvg-id="" tvg-name="EC | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",EC | D SPORTS HD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDCxt39M3-zRRslloqIGqenyF1Ho-Z3A_3opkWMLEVSHP
-#EXTINF:-1 xui-id="118275" tvg-id="" tvg-name="EC | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS HD EC
+#EXTINF:-1 xui-id="118275" tvg-id="" tvg-name="EC | DTV SPORTS HD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",EC | D SPORTS HD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDHUisoA0Xrj9gaj7Yy3A_5SMUc50KKZlSrFwiwykorp5
-#EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",D SPORTS 2 FHD EC
+#EXTINF:-1 xui-id="118280" tvg-id="" tvg-name="EC | DTV SPORTS 2 FHD" tvg-logo="http://supertele.xyz:8080/images/9EjxoijIUtC4MSv62C087TEcVX15hxNUbStS4IV_RBF1Qe3EdAXBGkCLvBxcNpLV.png" group-title="D SPORTS",EC | D SPORTS 2 FHD
 http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDEqyu297CyJGIhAt7bie5wz3obDsLK5U7Z9CyNloW1gQ
+
 
 
 
