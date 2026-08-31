@@ -329,4 +329,61 @@ http://supertele.xyz:8080/play/ByAAUSwlAfHqd2alnH4GDEqyu297CyJGIhAt7bie5wz3obDsL
 
 
 
+#EXTINF:-1 group-title="BET",aspor | BET
+https://betconnectstreamserver1001.site/aspor/mono.m3u8
+#EXTINF:-1 group-title="BET",Bein-Sport 1 HD | BET
+https://betconnectstreamserver1001.site/601/mono.m3u8
+#EXTINF:-1 group-title="BET",Bein-Sport 2 HD | BET
+https://betconnectstreamserver1001.site/602/mono.m3u8
+#EXTINF:-1 group-title="BET",Bein-Sport 3 HD | BET
+https://betconnectstreamserver1001.site/603/mono.m3u8
+#EXTINF:-1 group-title="BET",Bein-Sport 4 HD | BET
+https://betconnectstreamserver1001.site/604/mono.m3u8
+#EXTINF:-1 group-title="BET",Bein-Sport 5 HD | BET
+https://betconnectstreamserver1001.site/605/mono.m3u8
+#EXTINF:-1 group-title="BET",eurosport 1 | BET
+https://betconnectstreamserver1001.site/eurosport1/mono.m3u8
+#EXTINF:-1 group-title="BET",eurosport 2 | BET
+https://betconnectstreamserver1001.site/eurosport2/mono.m3u8
+#EXTINF:-1 group-title="BET",fbtv | BET
+https://betconnectstreamserver1001.site/fbtv/mono.m3u8
+#EXTINF:-1 group-title="BET",htspor | BET
+https://betconnectstreamserver1001.site/htspor/mono.m3u8
+#EXTINF:-1 group-title="BET",S Sport 2 HD | BET
+https://betconnectstreamserver1001.site/608/mono.m3u8
+#EXTINF:-1 group-title="BET",S Sport HD | BET
+https://betconnectstreamserver1001.site/607/mono.m3u8
+#EXTINF:-1 group-title="BET",SPOR Smart 2 HD | BET
+https://betconnectstreamserver1001.site/610/mono.m3u8
+#EXTINF:-1 group-title="BET",SPOR Smart HD | BET
+https://betconnectstreamserver1001.site/609/mono.m3u8
+#EXTINF:-1 group-title="BET",tabii sport | BET
+https://betconnectstreamserver1001.site/tabii/mono.m3u8
+#EXTINF:-1 group-title="BET",tabii sport 1 | BET
+https://betconnectstreamserver1001.site/tabii1/mono.m3u8
+#EXTINF:-1 group-title="BET",tabii sport 2 | BET
+https://betconnectstreamserver1001.site/tabii2/mono.m3u8
+#EXTINF:-1 group-title="BET",tabii sport 3 | BET
+https://betconnectstreamserver1001.site/tabii3/mono.m3u8
+#EXTINF:-1 group-title="BET",tabii sport 4 | BET
+https://betconnectstreamserver1001.site/tabii4/mono.m3u8
+#EXTINF:-1 group-title="BET",tabii sport 5 | BET
+https://betconnectstreamserver1001.site/tabii5/mono.m3u8
+#EXTINF:-1 group-title="BET",tabii sport 6 | BET
+https://betconnectstreamserver1001.site/tabii6/mono.m3u8
+#EXTINF:-1 group-title="BET",Tivibu Spor 1 | BET
+https://betconnectstreamserver1001.site/701/mono.m3u8
+#EXTINF:-1 group-title="BET",Tivibu Spor 2 | BET
+https://betconnectstreamserver1001.site/702/mono.m3u8
+#EXTINF:-1 group-title="BET",Tivibu Spor 3 | BET
+https://betconnectstreamserver1001.site/703/mono.m3u8
+#EXTINF:-1 group-title="BET",Tivibu Spor 4 | BET
+https://betconnectstreamserver1001.site/704/mono.m3u8
+#EXTINF:-1 group-title="BET",trt1 HD | BET
+https://betconnectstreamserver1001.site/trt1/mono.m3u8
+#EXTINF:-1 group-title="BET",trtspor | BET
+https://betconnectstreamserver1001.site/trtspor/mono.m3u8
+
+
+
 
