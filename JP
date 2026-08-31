@@ -387,3 +387,17 @@ https://betconnectstreamserver1001.site/trtspor/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="VEVO",VEVO 70 80 | VEVO
+https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
+#EXTINF:-1 group-title="VEVO",VEVO 90 | VEVO
+https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8
+#EXTINF:-1 group-title="VEVO",VEVO POP | VEVO
+https://d1ktssaxrjabsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1vshdbah8e4f8/playlist.m3u8
+#EXTINF:-1 group-title="VEVO",VEVO RETRO | VEVO
+https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8
+#EXTINF:-1 group-title="VEVO",VEVO R B | VEVO
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+
+
+
+
