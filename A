@@ -113,7 +113,7 @@ http://190.117.20.37:8000/play/a0f0/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD
-http://201.240.104.137:8000/play/a06m/index.m3u8?hls
+http://201.240.104.137:8000/play/LMAX/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.2)
 http://190.117.20.37:8000/play/a08c/index.m3u8
