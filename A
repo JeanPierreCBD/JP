@@ -56,17 +56,17 @@ http://201.240.104.137:8000/play/a07d/index.m3u8?hls
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/xFKYtNY/Polish-20240925-232148776.jpg" group-title="NACIONAL",WILLAX SD
 http://190.117.20.37:8000/play/a05e/index.m3u8
 
+#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV SD 
+http://201.240.104.137:8000/play/a0c4/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV SD
 http://190.117.20.37:8000/play/a05j/index.m3u8
 
-#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://i.ibb.co/sp8K7yMW/Polish-20250204-031550583.jpg" group-title="NACIONAL",ATV SD 
-http://190.117.20.37:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="Atv+.pe" tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+ HD
+http://209.45.101.130:8040/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-id="Atv+.pe" tvg-logo="https://i.ibb.co/Zz0gqVvC/Polish-20250204-204410025.jpg" group-title="NOTICIAS",ATV+ FHD
-http://201.240.104.137:8000/play/a0bn/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV
-https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=4994407
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV SD
+http://209.45.101.130:8040/play/a0c4/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/jNbMgnW/Polish-20250204-204035712.jpg" group-title="NACIONAL",GLOBAL TV FHD
 
@@ -79,32 +79,32 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/v4cdQPW/Polish-20220214-224514451.jpg" group-title="NACIONAL",PERU MAGICO
 
 
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV
-https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=6703086
-
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV SD
-http://201.240.104.137:8000/play/a070/index.m3u8?hls
+http://209.45.101.130:8040/play/a0bk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV
-https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8?uid=4994407
+::#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.ibb.co/y5htrzx/Polish-20211207-222136638.jpg" group-title="NOTICIAS",EXITOSA TV SD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV FHD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV HD
+http://209.45.101.130:8040/play/a0d5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV HD
 http://201.240.104.137:8000/play/a0as/index.m3u8?hls
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7drSjNc/Polish-20250913-192035826.jpg" group-title="NOTICIAS",LATINA NOTICIAS
 
 
 #EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://i.ibb.co/DRtY86M/Polish-20220222-151459677.jpg" group-title="NOTICIAS",CANAL N SD
-http://190.117.20.37:8000/play/a0f1/index.m3u8
+http://209.45.101.130:8040/play/a0bj/index.m3u8
 
-#EXTINF:-1 tvg-id="RppTV.pe" tvg-logo="https://i.ibb.co/j9SSGHK7/Polish-20251015-203611250.jpg" group-title="NOTICIAS",RPP
-http://190.117.20.37:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-id="RppTV.pe" tvg-logo="https://i.ibb.co/j9SSGHK7/Polish-20251015-203611250.jpg" group-title="NOTICIAS",RPP SD
+http://209.45.101.130:8040/play/a0c3/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/j9SSGHK7/Polish-20251015-203611250.jpg" group-title="NOTICIAS",RPP (opc.2)
 
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-logo="https://i.ibb.co/6YNDgWq/Polish-20211207-234428826.jpg" group-title="DEPORTES",MOVISTAR DEPORTES SD
-http://190.117.20.37:8000/play/a0f0/index.m3u8
+http://209.45.101.130:8040/play/a0e9/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU
 
@@ -112,11 +112,11 @@ http://190.117.20.37:8000/play/a0f0/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/9qtDwXQ/Polish-20211210-015659197.jpg" group-title="DEPORTES",GOL PERU FHD
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX HD
 http://201.240.104.137:8000/play/LMAX/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX FHD (opc.2)
-http://190.117.20.37:8000/play/a08c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX HD (opc.2)
+http://190.117.20.37:8000/play/a0gt/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/CpzTW039/Polish-20251105-162957898.jpg" group-title="DEPORTES",FOX SPORTS FHD
 
@@ -212,7 +212,7 @@ http://191.52.214.129:8000/play/a08r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
-http://201.240.104.137:8000/play/dts/index.m3u8?hls
+http://201.240.104.137:8000/play/a0c8/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS CO (opc.2)
 http://38.187.7.252:8000/play/a03d/index.m3u8
@@ -224,7 +224,7 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TyCSports.pe" tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-http://190.117.20.37:8000/play/a05x/index.m3u8
+http://38.187.7.252:8000/play/a056/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/dwGx4Zzh/Polish-20250824-141655726.jpg" group-title="DEPORTES",PREMIERE
 
