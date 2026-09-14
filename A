@@ -211,10 +211,10 @@ http://138.121.113.176:9000/play/a0f3/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/JHkk9xz/Polish-20211208-032942300.jpg" group-title="DEPORTES",TNT SPORTS
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hfwgzdpx/Polish-20260914-032114007.jpg" group-title="DEPORTES",D SPORTS
 http://201.240.104.137:8000/play/a0c8/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS CO (opc.2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hfwgzdpx/Polish-20260914-032114007.jpg" group-title="DEPORTES",D SPORTS CO (opc.2)
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS (opc.3)
