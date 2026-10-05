@@ -244,8 +244,8 @@ http://38.187.7.252:8000/play/a056/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/N2G3BPLf/Polish-20250204-205047997.jpg" group-title="DEPORTES",TUDN
 
 
-::#EXTINF:-1 tvg-logo="https://i.ibb.co/qMTC8FVR/Polish-20250901-212741507.jpg" group-title="DEPORTES",FOX DEPORTES
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMTC8FVR/Polish-20250901-212741507.jpg" group-title="DEPORTES",FOX DEPORTES
+http://195.178.110.110/foxdeportes/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs7VnfX/Polish-20211207-231620230.jpg" group-title="DEPORTES",CLARO SPORTS
 
