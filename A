@@ -89,7 +89,7 @@ http://209.45.101.130:8040/play/a0bk/index.m3u8
 http://209.45.101.130:8040/play/a0d5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfTbCfkJ/Polish-20250321-223340974.jpg" group-title="NOTICIAS",PBO TV HD
-http://201.240.104.137:8000/play/a0as/index.m3u8?hls
+http://201.240.104.137:8000/play/pbx/index.m3u8?hls
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7drSjNc/Polish-20250913-192035826.jpg" group-title="NOTICIAS",LATINA NOTICIAS
 
@@ -113,7 +113,7 @@ http://209.45.101.130:8040/play/a0e9/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX HD
-http://201.240.104.137:8000/play/LMAX/index.m3u8?hls
+http://201.240.104.137:8000/play/LMAXa/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTLGJd7Z/Polish-20250305-032917078.jpg" group-title="DEPORTES",L1 MAX HD (opc.2)
 http://209.45.101.130:8040/play/a0cz/index.m3u8
@@ -199,8 +199,8 @@ http://191.52.214.129:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="Espn7.pe" tvg-logo="https://i.ibb.co/8K3TtYZ/Polish-20241004-191605964.jpg" group-title="DEPORTES",ESPN 7 HD
 http://191.52.214.129:8000/play/a08r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",PREMIUM ARG HD
-http://181.209.38.115:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gL0Nk74K/Polish-20250503-020258341.jpg" group-title="DEPORTES",PREMIUM CHILE HD
+http://191.52.214.129:8000/play/a08e/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0fBzY9g/Polish-20211208-235946332.jpg" group-title="DEPORTES",ESPN EXTRA
 
