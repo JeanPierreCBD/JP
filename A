@@ -215,7 +215,7 @@ http://191.52.214.129:8000/play/a08e/index.m3u8
 http://201.240.104.137:8000/play/a0c8/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hfwgzdpx/Polish-20260914-032114007.jpg" group-title="DEPORTES",D SPORTS
-http://181.66.249.246:8000/play/a0km/index.m3u8
+http://45.188.229.33:8000/play/a1iw/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS (opc.3)
 
@@ -224,7 +224,7 @@ http://181.66.249.246:8000/play/a0km/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TyCSports.pe" tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
-http://181.66.249.246:8000/play/a017/index.m3u8
+http://45.188.229.33:8000/play/a18u/index.m3u8
 
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/dwGx4Zzh/Polish-20250824-141655726.jpg" group-title="DEPORTES",PREMIERE
 
