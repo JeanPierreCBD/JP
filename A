@@ -220,7 +220,7 @@ http://45.188.229.33:8000/play/a1iw/index.m3u8
 ::#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS (opc.3)
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jCgKq2V/Polish-20250208-191338993.jpg" group-title="DEPORTES",D SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDg82QYb/Polish-20261031-030900911.jpg" group-title="DEPORTES",D SPORTS 2
 http://45.188.229.33:8000/play/a1ix/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.pe" tvg-logo="https://i.ibb.co/f9vkphs/Polish-20211207-231412965.jpg" group-title="DEPORTES",TyC SPORTS
